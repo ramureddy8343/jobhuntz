@@ -241,50 +241,37 @@
 ============================================= -->
 <script type="text/javascript" src="js/functions.js"></script>
 
-<script type="text/javascript" src="https://maps.google.com/maps/api/js"></script>
+<!-- <script type="text/javascript" src="https://maps.google.com/maps/api/js"></script> -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDk163UPWaIzp6mX5CtSuN4CcQQlbBV7hc&callback=initMap"></script>
 <script type="text/javascript" src="js/jquery.gmap.js"></script>
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/59b93382c28eca75e461fd25/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
-
 <script type="text/javascript">
 
-jQuery('#google-map').gMap({
+  $('#google-map').gMap({
 
-  address: 'JobHuntz, Bangalore',
-  maptype: 'ROADMAP',
-  zoom: 14,
-  markers: [
-    {
-      address: "JobHuntz, Bangalore",
-      html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>JobHuntz</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
-      icon: {
-        image: "images/icons/map-icon-red.png",
-        iconsize: [32, 39],
-        iconanchor: [32,39]
+    address: 'HSR, Bangalore',
+    maptype: 'ROADMAP',
+    zoom: 14,
+    markers: [
+      {
+        address: "HSR, Bangalore",
+        html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>JobHuntz</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
+        icon: {
+          image: "images/icons/map-icon-red.png",
+          iconsize: [32, 39],
+          iconanchor: [13,39]
+        }
       }
+    ],
+    doubleclickzoom: false,
+    controls: {
+      panControl: true,
+      zoomControl: true,
+      mapTypeControl: true,
+      scaleControl: false,
+      streetViewControl: false,
+      overviewMapControl: false
     }
-  ],
-  doubleclickzoom: false,
-  controls: {
-    panControl: true,
-    zoomControl: true,
-    mapTypeControl: true,
-    scaleControl: false,
-    streetViewControl: false,
-    overviewMapControl: false
-  }
+  });
 
-});
 </script>
