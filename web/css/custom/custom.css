@@ -1,0 +1,67 @@
+.JobHuntz{
+  position: absolute;
+      top: 16px;
+      padding-left: 45%;
+      height: 191px;
+}
+.button.button-border.button-light{
+  border-color: #353535;
+    color: #353535;
+}
+.hospatality{
+  color: #DAA520;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.caption{
+  font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+#header.full-header #primary-menu > ul{
+      border-right: none;
+}
+
+.white{
+  border-color: #fff !important;
+    color: #fff !important;
+}
+.button.button-border.button-light:hover {
+  color: #333!important;
+}
+
+.aboutUs .promo.promo-light{
+  background: #fff !important;
+  padding-left: 0!important;
+  text-align: center!important;
+}
+.aboutUs .promo{
+  padding: 30px!important;
+}
+
+.contact #contact-form-overlay{
+  position: absolute;
+    max-width: 500px;
+    right: 0;
+    background-color: #FFF;
+    padding: 40px;
+    margin: 0 auto;
+    z-index: 10;
+    border-radius: 4px;
+    box-shadow: 0 1px 10px rgba(0,0,0,0.15);
+}
+#header.full-header #logo{
+      padding: 0 30px;
+      background: #2a004e;
+}
+body.stretched #header.full-header .container{
+      padding: 0 30px 0 0;
+}
+h1 > span:not(.nocolor), h2 > span:not(.nocolor), h3 > span:not(.nocolor), h4 > span:not(.nocolor), h5 > span:not(.nocolor), h6 > span:not(.nocolor) {
+    color: #9D7F2A!important;
+}
+.dark .slider-caption h2{
+  color: #8b6e30;
+}
