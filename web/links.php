@@ -1,3 +1,6 @@
+<!-- favicon link -->
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+
 <!-- Stylesheets
 ============================================= -->
 <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
