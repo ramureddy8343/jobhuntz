@@ -32,6 +32,7 @@
             </ul>
           </li>
           <li><a class="mega-menu" href="#" ><div>Portfolio</div></a></li>
+          <li><a  href="#" ><div>Faq</div></a></li>
           <li><a class="mega-menu" href="#" ><div>Blog</div></a></li>
           <li><a href="jobs.php"><div>careers</div></a></li>
           <li><a href="contact.php"><div>Contact Us</div></a></li>
