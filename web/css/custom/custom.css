@@ -65,3 +65,39 @@ h1 > span:not(.nocolor), h2 > span:not(.nocolor), h3 > span:not(.nocolor), h4 > 
 .dark .slider-caption h2{
   color: #8b6e30;
 }
+.postcontent.col_last{
+  float: left;
+}
+.pt30{
+  padding-top: 30px;
+}
+.text-center{
+  text-align: center;
+}
+.register .promo{
+  position: relative;
+padding: 30px 20px 30px 0;
+}
+.register .promo-light{
+ padding-left: 0px;
+ text-align: center;
+}
+.darkBlue{
+  color: rgb(42, 0, 78) !important;
+}
+.brightLight{
+  color: rgb(254, 253, 235) !important;
+}
+.discount{
+
+}
+.discountBg{
+  background: url("../../../web/one-page/images/page/4.jpg");
+    background-size: cover;
+}
+.White{
+  color: #fff;
+}
+.Black{
+  color: #000;
+}

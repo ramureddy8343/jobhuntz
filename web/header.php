@@ -22,18 +22,16 @@
         <ul>
           <li><a href="/"><div>Home</div></a></li>
           <li><a href="about.php"><div>About Us</div></a></li>
-          <li><a href="#"><div>Services</div></a>
+          <li><a href="#"><div>Courses</div></a>
             <ul>
-              <li><a href="#"><div>Service1</div></a></li>
-              <li><a href="#"><div>Service2</div></a></li>
-              <li><a href="#"><div>Service3</div></a></li>
-              <li><a href="#"><div>Service4</div></a></li>
-              <li><a href="#"><div>Service5</div></a></li>
+              <li><a href="course1.php"><div>Course1</div></a></li>
+              <li><a href="course2.php"><div>Course2</div></a></li>
+              <li><a href="course3.php"><div>Course3</div></a></li>
+              <li><a href="course4.php"><div>Course4</div></a></li>
             </ul>
           </li>
           <li><a class="mega-menu" href="#" ><div>Portfolio</div></a></li>
-          <li><a  href="#" ><div>Faq</div></a></li>
-          <li><a class="mega-menu" href="#" ><div>Blog</div></a></li>
+          <li><a  href="faqs.php" ><div>Faq</div></a></li>
           <li><a href="jobs.php"><div>careers</div></a></li>
           <li><a href="contact.php"><div>Contact Us</div></a></li>
         </ul>

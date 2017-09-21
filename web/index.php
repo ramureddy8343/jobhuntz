@@ -682,7 +682,23 @@
 						</div>
 					</section>
 			</div>
+			<div class="modal-on-load" data-target="#myModal1"></div>
 
+			<!-- Modal -->
+			<div class="modal1 mfp-hide" id="myModal1">
+				<div class="block divcenter" style="background-color: #FFF; max-width: 700px;">
+					<div class="row nomargin clearfix">
+						<div class="col-sm-12 discountBg col-padding" data-height-lg="456" data-height-md="456" data-height-sm="456" data-height-xs="456" data-height-xxs="456">
+							<div>
+							<h2 class="uppercase ls1 Black">Hurrey Up</h2>
+							<h2 class="Black">Get <span class="discount" style="color:#000 !important; font-weight:bolder; font-size:40px;">40</span> % Discount On first 100 Seats</h2>
+							<button type="button" class="button button-rounded button-small button-dark nomargin" value="submit">Register Now</button>
+							<p class="nobottommargin White"><small class="t300"><em>* No Credit Card Required</em></small></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section><!-- #content end -->
 		<!-- include footer
 		============================================= -->

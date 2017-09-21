@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Job Openings | Canvas</title>
+	<title>Job Openings | JobHuntz</title>
 
 </head>
 
