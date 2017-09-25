@@ -226,6 +226,17 @@
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDk163UPWaIzp6mX5CtSuN4CcQQlbBV7hc&callback=initMap"></script>
 <script type="text/javascript" src="js/jquery.gmap.js"></script>
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106870382-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106870382-1');
+</script>
+
+
   <!--Start of Tawk.to Script-->
   <script type="text/javascript">
   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
