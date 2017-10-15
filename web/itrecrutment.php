@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Course Four | JobHuntz</title>
+	<title>IT Recrutment | JobHuntz</title>
 
 </head>
 
@@ -31,7 +31,7 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="darkBlue text-center" style="color:rgb(42, 0, 78) !important;">Course Four</h1>
+				<h1 class="darkBlue text-center" style="color:rgb(42, 0, 78) !important;">IT Recrutment</h1>
 				<span class="darkBlue text-center">Join our Fabulous Team of Intelligent Individuals</span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
@@ -51,7 +51,7 @@
 				<div class="container clearfix">
 
                     <div class="col_full text-center">
-                    <h3 class="nobottommargin">What is <span class="darkBlue">Course Four</span>?</h3>
+                    <h3 class="nobottommargin">What is <span class="darkBlue">IT Recrutment</span>?</h3>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                     </div>
 

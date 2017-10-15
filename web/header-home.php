@@ -28,15 +28,14 @@
             <ul>
               <li><a href="hospatality.php"><div>HOSPITALITY MANAGMENT</div></a></li>
               <li><a href="aviation.php"><div>AVIATION MANAGMENT</div></a></li>
-              <li><a href="course3.php"><div>RETAIL MANAGEMENT</div></a></li>
+              <li><a href="retail.php"><div>RETAIL MANAGEMENT</div></a></li>
             </ul>
           </li>
           <li><a href="#"><div>Services</div></a>
             <ul>
-              <li><a href="hospatality.php"><div>HOSPITALITY MANAGMENT</div></a></li>
-              <li><a href="aviation.php"><div>AVIATION MANAGMENT</div></a></li>
-              <li><a href="course3.php"><div>RETAIL MANAGEMENT</div></a></li>
-              <li><a href="course4.php"><div>Course4</div></a></li>
+              <li><a href="placements.php"><div>PLACEMENTS</div></a></li>
+              <li><a href="itrecrutment.php"><div>IT RECURUTEMENT</div></a></li>
+              <li><a href="nonitrecrutment.php"><div>NON IT RECURUTEMENT</div></a></li>
             </ul>
           </li>
           <li class="mega-menu"><a href="#"><div>Portfolio</div></a>

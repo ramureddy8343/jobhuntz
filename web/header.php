@@ -30,16 +30,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul>
           <li><a href="/"><div>Home</div></a></li>
           <li><a href="about.php"><div>About Us</div></a></li>
-          <li><a href="placements.php"><div>Placements</div></a>
-          <li><a href="#"><div>Courses</div></a>
-            <ul>
-              <li><a href="course1.php"><div>Course1</div></a></li>
-              <li><a href="course2.php"><div>Course2</div></a></li>
-              <li><a href="course3.php"><div>Course3</div></a></li>
-              <li><a href="course4.php"><div>Course4</div></a></li>
-            </ul>
-          </li>
+            <li><a href="#"><div>Courses</div></a>
+              <ul>
+                <li><a href="hospatality.php"><div>HOSPITALITY MANAGMENT</div></a></li>
+                <li><a href="aviation.php"><div>AVIATION MANAGMENT</div></a></li>
+                <li><a href="retail.php"><div>RETAIL MANAGEMENT</div></a></li>
+              </ul>
+            </li>
+            <li><a href="#"><div>Services</div></a>
+              <ul>
+                <li><a href="placements.php"><div>PLACEMENTS</div></a></li>
+                <li><a href="itrecrutment.php"><div>IT RECURUTEMENT</div></a></li>
+                <li><a href="nonitrecrutment.php"><div>NON IT RECURUTEMENT</div></a></li>
+              </ul>
+            </li>
           <li><a class="mega-menu" href="#" ><div>Portfolio</div></a></li>
+          <li><a href="placements.php"><div>Placements</div></a>
           <!-- <li><a  href="faqs.php" ><div>Faq</div></a></li> -->
           <li><a href="jobs.php"><div>careers</div></a></li>
           <li><a href="contact.php"><div>Contact Us</div></a></li>

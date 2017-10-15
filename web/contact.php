@@ -12,7 +12,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Contact | JobHuntz</title>
+	<title>Contact Us| JobHuntz</title>
 
 </head>
 
@@ -28,22 +28,20 @@
 
 		<!-- Page Title
 		============================================= -->
-		<section id="page-title">
+		<section id="page-title" class="page-title-parallax page-title-dark" style="    background-image: url(./images/contact.jpg);
+    padding: 120px 0px;
+    background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1>Contact</h1>
-				<span>Get in Touch with Us</span>
+				<h1>Contact Us</h1>
+				<span>Okay enough talks? Let's connect. We are just a call away.</span>
 				<ol class="breadcrumb">
-					<li><a href="#">Home</a></li>
-					<li class="active">Contact</li>
+					<li><a href="/">Home</a></li>
+					<li class="active">Contact Us</li>
 				</ol>
 			</div>
 
 		</section><!-- #page-title end -->
-
-		<!-- Google Map
-		============================================= -->
-		<section id="google-map" class="gmap slider-parallax"></section>
 
 		<!-- Content
 		============================================= -->
@@ -130,19 +128,23 @@
 					<!-- Sidebar
 					============================================= -->
 					<div class="sidebar col_last nobottommargin">
-
 						<address>
 							<strong>Headquarters:</strong><br>
-							795 Folsom Ave, Suite 600<br>
-							San Francisco, CA 94107<br>
+							<strong>INDIA:</strong><br>
+							<b>#1032,1st Floor, 24th Main,1st Sector<br>
+								HSR Layout Bangalore,</b>
+							 Karanataka, Pin Code: 560102<br>
 						</address>
-						<abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 8547 632521<br>
-						<abbr title="Fax"><strong>Fax:</strong></abbr> (91) 11 4752 1433<br>
-						<abbr title="Email Address"><strong>Email:</strong></abbr> info@jobhuntz.com
+						<p class="m0"><strong>Talk soon:</strong></p>
+						<p class="m0"><strong>Akhil Jain:</strong></p>
+						<abbr title="Phone Number"><strong>Phone:</strong></abbr> <b>(91) 8547 632521</b><br>
+						<p class="m0"><strong>Vikas V Harlapur:</strong></p>
+						<abbr title="Phone Number:"><strong>Phone:</strong></abbr> <b>(91) 74118 24911</b><br><br>
+						<abbr title="Email Address"><strong>Email:</strong></abbr> <b>info@jobhuntz.com</b>
 
 						<div class="widget noborder notoppadding">
 
-							<a href="#" class="social-icon si-small si-dark si-facebook">
+							<a href="https://www.facebook.com/Jobhuntz-Pvt-Ltd-1952520244988030/" class="social-icon si-small si-dark si-facebook">
 								<i class="icon-facebook"></i>
 								<i class="icon-facebook"></i>
 							</a>
@@ -150,16 +152,6 @@
 							<a href="#" class="social-icon si-small si-dark si-twitter">
 								<i class="icon-twitter"></i>
 								<i class="icon-twitter"></i>
-							</a>
-
-							<a href="#" class="social-icon si-small si-dark si-dribbble">
-								<i class="icon-dribbble"></i>
-								<i class="icon-dribbble"></i>
-							</a>
-
-							<a href="#" class="social-icon si-small si-dark si-forrst">
-								<i class="icon-forrst"></i>
-								<i class="icon-forrst"></i>
 							</a>
 
 							<a href="#" class="social-icon si-small si-dark si-pinterest">
@@ -181,6 +173,12 @@
 			</div>
 
 		</section><!-- #content end -->
+
+		<!-- Google Map
+		============================================= -->
+		<section id="google-map" class="gmap"></section>
+
+
 
 		<!-- include footer
 		============================================= -->

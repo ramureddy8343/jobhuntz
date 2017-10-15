@@ -218,7 +218,7 @@ of the industry.</span>
 						<div class="col_one_third">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="hospitality.php"><img src="images/services/aviation.jpg" alt=""></a>
+									<a href="aviation.php"><img src="images/services/aviation.jpg" alt=""></a>
 								</div>
 								<h3>Aviation Managment</h3>
 								<p> Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
@@ -228,7 +228,7 @@ of the industry.</span>
 						<div class="col_one_third col_last">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="hospitality.php"><img src="images/services/retail.jpg" alt=""></a>
+									<a href="retail.php"><img src="images/services/retail.jpg" alt=""></a>
 								</div>
 								<h3>Retail Management</h3>
 								<p>Indepth traning of <strong>Retail methods and Technology</strong> for promoting sales and customer satisfaction.</p>
@@ -254,7 +254,7 @@ training on placement ensures to get you through any interview</p>
 						<div class="col_one_third">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="hospitality.php"><img src="images/services/recrute.jpg" alt=""></a>
+									<a href="itrecrutment.php"><img src="images/services/recrute.jpg" alt=""></a>
 								</div>
 								<h3>IT Recurutement</h3>
 								<p>Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
@@ -264,7 +264,7 @@ training on placement ensures to get you through any interview</p>
 						<div class="col_one_third col_last">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="hospitality.php"><img src="images/services/bpo.jpg" alt=""></a>
+									<a href="nonitrecrutment.php"><img src="images/services/bpo.jpg" alt=""></a>
 								</div>
 								<h3>Non IT Recurutement</h3>
 								<p>Indepth traning of <strong>BPO methods and Technology</strong> for promoting sales and customer satisfaction.</p>

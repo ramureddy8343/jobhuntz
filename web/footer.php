@@ -21,7 +21,7 @@ the industry. Our training makes sure that you're always on the same side as the
 
           <div class="col_full col_last">
             <div class="copyrights-menu copyright-links clearfix">
-              <a href="#">Home</a>/<a href="#">About</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
+              <a href="/">Home</a>/<a href="about.php">About</a>/<a href="#">Portfolio</a>/<a href="placements.php">Placements</a>/<a href="contact.php">Contact</a>
             </div>
           </div>
           <div class="col_full col_last">
@@ -67,8 +67,8 @@ the industry. Our training makes sure that you're always on the same side as the
                 <div class="col_half">
                   <address class="nobottommargin">
                     <abbr title="Headquarters" style="display: inline-block;margin-bottom: 7px;"><strong>Headquarters:</strong></abbr><br>
-                    <b>#1032,1st Floor, 24th Main,1st Secto<br>
-                      HSR Layout Bangalore,</b>,
+                    <b>#1032,1st Floor, 24th Main,1st Sector<br>
+                      HSR Layout Bangalore,</b>
                      Karanataka, Pin Code: 560102<br>
                   </address>
                 </div>
