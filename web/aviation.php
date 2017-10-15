@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Course Two | JobHuntz</title>
+	<title>Aviation Managment | JobHuntz</title>
 
 </head>
 
@@ -31,7 +31,7 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="brightLight text-center" style="color: rgb(254, 253, 235) !important;">Course Two</h1>
+				<h1 class="brightLight text-center" style="color: rgb(254, 253, 235) !important;">Aviation Managment</h1>
 				<span class="brightLight text-center">Join our Fabulous Team of Intelligent Individuals</span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>

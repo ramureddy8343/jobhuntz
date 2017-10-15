@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Course One | JobHuntz</title>
+	<title>Hospatality Managment| JobHuntz</title>
 
 </head>
 
@@ -31,7 +31,7 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1>Course One</h1>
+				<h1>Hospatality</h1>
 				<span>Join our Fabulous Team of Intelligent Individuals</span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>

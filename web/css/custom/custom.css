@@ -101,3 +101,79 @@ padding: 30px 20px 30px 0;
 .Black{
   color: #000;
 }
+.text-rotater {
+    font-size: 26px !important;
+}
+.fnt30{
+   font-size: 30px;
+}
+.heading-block h1 + span {
+    font-size: 33px !important;
+}
+.footer_brand{
+  float: left;
+/* height: 100px; */
+/* width: 102px; */
+border-right: 1px solid #545454;
+padding: 10px;
+font-size: 30px;
+color: #888888;
+text-transform: uppercase;
+font-weight: bold;
+margin-right: 10px;
+}
+
+.footer_text{
+  padding-top: 10px;
+}
+.widget > h4 {
+  margin-bottom: 0!important;
+}
+.fnt18{
+      font-size: 18px;
+}
+.p10{
+  padding: 10px;
+}
+#homepage .swiper_wrapper {
+    height: 554px !important;
+}
+.white{
+  color: #fff;
+}
+.black{
+  color: #000;
+}
+.right{
+  text-align: right;
+}
+.button.button-border:not(.button-fill):hover{
+  border: none !important;
+}
+.fnt40{
+  font-size: 40px !important;
+}
+.changeBrd{
+  border-color: #fff !important;
+  /*color: #fff !important;*/
+  /* font-weight: bold !important; */
+  /*background-color: #fff !important;*/
+  color: #fff!important;
+}
+.fbox-effect .fbox-icon img:hover, .fbox-effect:hover .fbox-icon img {
+    background-color: #333;
+    color: #FFF;
+}
+#section-services .feature-box.fbox-center .fbox-icon{
+  width: 200px !important;
+    height: 200px !important;
+}
+#section-services .feature-box p{
+ color: #333;
+}
+#section-services .divider{
+  margin: 0!important
+}
+#section-work .portfolio-item .portfolio-image img{
+  height: 200px !important;
+}

@@ -11,11 +11,11 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Home - One Page Layout | JobHuntz</title>
+	<title>Home - Make an astounding career in hospitalilty domain | JobHuntz</title>
 
 </head>
 
-<body class="stretched">
+<body class="stretched" id="homepage">
 	<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ3NC98"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -25,9 +25,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	============================================= -->
 	<div id="wrapper" class="clearfix">
 
-		<div id="home" class="page-section" style="position:absolute;top:0;left:0;width:100%;height:200px;z-index:-2;"></div>
 
-		<section id="slider" class="slider-parallax full-screen with-header swiper_wrapper clearfix">
+
+		<section id="slider" class="slider-parallax with-header swiper_wrapper clearfix">
 
 			<div class="slider-parallax-inner">
 
@@ -41,42 +41,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="heading-block nobottommargin center">
 										<h1>
 											<span class="text-rotater nocolor" data-separator="|" data-rotate="flipInX" data-speed="3500">
-											 Make your Business <span class="t-rotate">Simple|Customizable|Flexible|Easy|Profitable</span>
+											 Make an astounding career in <span class="hospatality">Hospitality</span> domain.
 											</span>
+											<!-- <span class="t-rotate">Simple|Customizable|Flexible|Easy|Profitable</span> -->
 										</h1>
-										<span class="hidden-xs">Explore Our <span class="hospatality">Hospitality</span> Services.</span>
+										<span class="hidden-xs fnt30">Explore our job oriented training.</span>
 									</div>
-									<a href="#" class="button button-border button-light button-rounded button-reveal tright button-large hidden-xs"><i class="icon-angle-right"></i><span>Start Explore</span></a>
+									<a href="#section-services" class="button button-border button-light button-rounded button-reveal tright button-large hidden-xs"><i class="icon-angle-right"></i><span>Start Explore</span></a>
 								</div>
 							</div>
 						</div>
-						<!-- <div class="swiper-slide dark">
+						<div class="swiper-slide" style="background-image: url('images/slider/swiper/hospitality.jpg'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+									<div class="right">
+										<h2 data-caption-animate="fadeInUp fnt40">Hospitality Management </h2>
+									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200">Get started with our Course.</h3>
+										<a href="#" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs"><i class="icon-angle-right"></i><span>Get Started</span></a>
+									</div>
 								</div>
 							</div>
-							<div class="video-wrap">
-								<video poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-									<source src='images/videos/explore.mp4' type='video/mp4' />
-									<source src='images/videos/explore.webm' type='video/webm' />
-								</video>
-								<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
-							</div>
-						</div> -->
-						<!-- <div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+						</div>
+						<div class="swiper-slide" style="background-image: url('images/slider/swiper/aiviator.jpg'); background-position: center top;">
 							<div class="container clearfix">
-								<div class="slider-caption">
-									<h2 data-caption-animate="fadeInUp">Welcome to Job Huntz</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Job Huntz.</p>
+								<div class="slider-caption changeBrd">
+									<h2 data-caption-animate="fadeInUp" class="white">Aviation Management </h2>
+								  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" class="white">Get started with our Course.</h3>
+									<a href="#" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 								</div>
 							</div>
-						</div> -->
+						</div>
+						<div class="swiper-slide" style="background-image: url('images/slider/swiper/retail.jpg'); background-position: center top;">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<div class="right">
+										<h2 data-caption-animate="fadeInUp" class="white">Retail Management</h2>
+									  <h3 data-caption-animate="fadeInUp" class="white" data-caption-delay="200">Get started with our Course.</h3>
+										<a href="#" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
 					</div>
-					<!-- <div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
+					<div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
 					<div id="slider-arrow-right"><i class="icon-angle-right"></i></div> -->
-					<!-- <div id="slide-number"><div id="slide-number-current"></div><span>/</span><div id="slide-number-total"></div></div> -->
+					<div id="slide-number"><div id="slide-number-current"></div><span>/</span><div id="slide-number-total"></div></div>
+					<a href="#" data-scrollto="#section-about" class="one-page-arrow">
+						<i class="icon-angle-down infinite animated fadeInDown black"></i>
+					</a>
 				</div>
 
 			</div>
@@ -101,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="heading-block center">
 							<h2>We are a <span>Team</span></h2>
-							<span>One of the most Versatile Theme on Themeforest</span>
+							<span>We were young then but our goal was clear and firm, to fill the void gap between talent and the industry.</span>
 						</div>
 
 						<div class="col_one_third nobottommargin">
@@ -111,7 +124,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 								<div class="fbox-desc">
 									<h3>Why choose Us.<span class="subtitle">Because we are Reliable.</span></h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rem, facilis nobis voluptatum est voluptatem accusamus molestiae eaque perspiciatis mollitia.</p>
+									<p>Hospitality is an ever changing domain. The demands are always as per the latest trend in
+the industry. Our training makes sure that you're always on the same side as the industry is.</p>
 								</div>
 							</div>
 						</div>
@@ -183,9 +197,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</section>
 				<section id="section-services" class="page-section topmargin-lg">
 
-					<div class="heading-block center bottommargin-lg">
-						<h2>Services</h2>
-						<span>List of some features included in Job Huntz.</span>
+					<div class="heading-block center">
+						<h2>Training Courses</h2>
+						<span>Our training focuses on enhancing and polishing the skills to meet the overwhelming demand
+of the industry.</span>
 					</div>
 
 					<div class="container clearfix">
@@ -193,103 +208,71 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="col_one_third">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-phone2"></i></a>
+									<a href="hospitality.php"><img src="images/services/hospitality.jpg" alt=""></a>
 								</div>
-								<h3>Responsive Layout</h3>
-								<p>Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+								<h3>Hospitality Managment</h3>
+								<p><strong>Basic and Advanced</strong> training to get through and make a career in hotel industry.</p>
 							</div>
 						</div>
 
 						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="200">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-eye"></i></a>
+									<a href="hospitality.php"><img src="images/services/aviation.jpg" alt=""></a>
 								</div>
-								<h3>Retina Ready Graphics</h3>
-								<p>Looks beautiful &amp; ultra-sharp on Retina Displays with Retina Icons, Fonts &amp; Images.</p>
+								<h3>Aviation Managment</h3>
+								<p> Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
 							</div>
 						</div>
 
 						<div class="col_one_third col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="400">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-star2"></i></a>
+									<a href="hospitality.php"><img src="images/services/retail.jpg" alt=""></a>
 								</div>
-								<h3>Powerful Performance</h3>
-								<p>Optimized code that are completely customizable and deliver unmatched fast performance.</p>
+								<h3>Retail Management</h3>
+								<p>Indepth traning of <strong>Retail methods and Technology</strong> for promoting sales and customer satisfaction.</p>
 							</div>
 						</div>
 
 						<div class="clear"></div>
-
+						<div class="heading-block center">
+							<h2>Our Services</h2>
+							<span>Some sub heading text to be added for the services</span>
+						</div>
 						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="600">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-video"></i></a>
+									<a href="placements.php"><img src="images/services/placement.jpg" alt=""></a>
 								</div>
-								<h3>HTML5 Video</h3>
-								<p>Job Huntz provides support for Native HTML5 Videos that can be added to a Full Width Background.</p>
+								<h3>Placements</h3>
+								<p>we also have prime focus on <strong>placing the talent to the right place</strong>. Our dedicated
+training on placement ensures to get you through any interview</p>
 							</div>
 						</div>
 
 						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="800">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-params"></i></a>
+									<a href="hospitality.php"><img src="images/services/recrute.jpg" alt=""></a>
 								</div>
-								<h3>Parallax Support</h3>
-								<p>Display your Content attractively using Parallax Sections that have unlimited customizable areas.</p>
+								<h3>IT Recurutement</h3>
+								<p>Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
 							</div>
 						</div>
 
 						<div class="col_one_third col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1000">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-fire"></i></a>
+									<a href="hospitality.php"><img src="images/services/bpo.jpg" alt=""></a>
 								</div>
-								<h3>Endless Possibilities</h3>
-								<p>Complete control on each &amp; every element that provides endless customization possibilities.</p>
+								<h3>Non IT Recurutement</h3>
+								<p>Indepth traning of <strong>BPO methods and Technology</strong> for promoting sales and customer satisfaction.</p>
 							</div>
 						</div>
-
-						<div class="clear"></div>
-
-						<div class="col_one_third nobottommargin">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1200">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-bulb"></i></a>
-								</div>
-								<h3>Light &amp; Dark Color Schemes</h3>
-								<p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third nobottommargin">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1400">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-heart2"></i></a>
-								</div>
-								<h3>Boxed &amp; Wide Layouts</h3>
-								<p>Stretch your Website to the Full Width or make it boxed to surprise your visitors.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third nobottommargin col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1600">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-note"></i></a>
-								</div>
-								<h3>Extensive Documentation</h3>
-								<p>We have covered each &amp; everything in our Documentation including Videos &amp; Screenshots.</p>
-							</div>
-						</div>
-
-						<div class="clear"></div>
-
 					</div>
 
-					<div class="divider divider-short divider-center topmargin-lg"><i class="icon-star3"></i></div>
-
+					<div class="divider divider-short divider-center"><i class="icon-star3"></i></div>
 				</section>
 
 				<section id="section-work" class="page-section topmargin-lg">
@@ -305,205 +288,72 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						============================================= -->
 						<div id="portfolio" class="portfolio grid-container portfolio-nomargin clearfix">
 
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="portfolio-single.html">
-										<img src="images/portfolio/4/1.jpg" alt="Open Imagination">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Open Imagination</a></h3>
-									<span><a href="#">Media</a>, <a href="#">Icons</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-illustrations">
-								<div class="portfolio-image">
-									<a href="portfolio-single.html">
-										<img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
-									<span><a href="#">Illustrations</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-graphics pf-uielements">
+							<article class="portfolio-item pf-icons pf-illustrations">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
+										<img src="images/portfolio/1/1.jpg" alt="JW Marriott Hotel Bengaluru">
 									</a>
-									<div class="portfolio-overlay">
-										<a href="http://vimeo.com/89396394" class="left-icon" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-										<a href="portfolio-single-video.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									<div class="portfolio-overlay" data-lightbox="gallery">
+										<a href="images/portfolio/1/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
+										<a href="images/portfolio/1/2.jpg" class="hidden" data-lightbox="gallery-item"></a>
+										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+									<h3><a href="portfolio-single-gallery.html">JW Marriott Hotel Bengaluru</a></h3>
+									<span><a href="#"><a href="#">Event Hosting</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-icons pf-illustrations">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/2/1.jpg" alt="JW Marriott Hotel Bengaluru">
+									</a>
+									<div class="portfolio-overlay" data-lightbox="gallery">
+										<a href="images/portfolio/2/2.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
+										<a href="images/portfolio/2/3.jpg" class="hidden" data-lightbox="gallery-item"></a>
+										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									</div>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single-gallery.html">Exibiting at Jet Airways</a></h3>
+									<span><a href="#"><a href="#">On Boarding</a></span>
 								</div>
 							</article>
 
 							<article class="portfolio-item pf-icons pf-illustrations">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="images/portfolio/4/4.jpg" alt="Mac Sunglasses">
+										<img src="images/portfolio/3/1.jpg" alt="JW Marriott Hotel Bengaluru">
 									</a>
 									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/4-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
+										<a href="images/portfolio/3/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
+										<a href="images/portfolio/3/2.jpg" class="hidden" data-lightbox="gallery-item"></a>
 										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
-									<span><a href="#"><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
+									<h3><a href="portfolio-single-gallery.html">Recruting at Infosys.</a></h3>
+									<span><a href="#"><a href="#">Mass Recruting</a></span>
 								</div>
 							</article>
 
-							<article class="portfolio-item pf-uielements pf-media">
-								<div class="portfolio-image">
-									<a href="portfolio-single.html">
-										<img src="images/portfolio/4/5.jpg" alt="Console Activity">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="images/portfolio/full/5.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-graphics pf-illustrations">
+							<article class="portfolio-item pf-icons pf-illustrations">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="images/portfolio/4/6.jpg" alt="Mac Sunglasses">
+										<img src="images/portfolio/1/1.jpg" alt="JW Marriott Hotel Bengaluru">
 									</a>
 									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/full/6.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/6-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="images/portfolio/full/6-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="images/portfolio/full/6-3.jpg" class="hidden" data-lightbox="gallery-item"></a>
+										<a href="images/portfolio/1/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
+										<a href="images/portfolio/1/2.jpg" class="hidden" data-lightbox="gallery-item"></a>
 										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Shake It!</a></h3>
-									<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
+									<h3><a href="portfolio-single-gallery.html">JW Marriott Hotel Bengaluru</a></h3>
+									<span><a href="#"><a href="#">Event Hosting</a></span>
 								</div>
 							</article>
-
-							<article class="portfolio-item pf-uielements pf-icons">
-								<div class="portfolio-image">
-									<a href="portfolio-single-video.html">
-										<img src="images/portfolio/4/7.jpg" alt="Backpack Contents">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="http://www.youtube.com/watch?v=kuceVNBTJio" class="left-icon" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-										<a href="portfolio-single-video.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-video.html">Backpack Contents</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Icons</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-graphics">
-								<div class="portfolio-image">
-									<a href="portfolio-single.html">
-										<img src="images/portfolio/4/8.jpg" alt="Sunset Bulb Glow">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="images/portfolio/full/8.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Sunset Bulb Glow</a></h3>
-									<span><a href="#">Graphics</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-illustrations pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/portfolio/4/9.jpg" alt="Mac Sunglasses">
-									</a>
-									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/full/9.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/9-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="images/portfolio/full/9-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Bridge Side</a></h3>
-									<span><a href="#">Illustrations</a>, <a href="#">Icons</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-graphics pf-media pf-uielements">
-								<div class="portfolio-image">
-									<a href="portfolio-single-video.html">
-										<img src="images/portfolio/4/10.jpg" alt="Study Table">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="http://vimeo.com/91973305" class="left-icon" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-										<a href="portfolio-single-video.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-video.html">Study Table</a></h3>
-									<span><a href="#">Graphics</a>, <a href="#">Media</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="portfolio-single.html">
-										<img src="images/portfolio/4/11.jpg" alt="Workspace Stuff">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="images/portfolio/full/11.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Workspace Stuff</a></h3>
-									<span><a href="#">Media</a>, <a href="#">Icons</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-illustrations pf-graphics">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/portfolio/4/12.jpg" alt="Mac Sunglasses">
-									</a>
-									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/full/12.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/12-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Fixed Aperture</a></h3>
-									<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
-								</div>
-							</article>
-
 						</div><!-- #portfolio end -->
 
 					</div>
@@ -572,6 +422,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 
 						<div class="clear"></div>
+						<div class="col-md-6 bottommargin">
+
+							<div class="team team-list clearfix">
+								<div class="team-image">
+									<img src="images/team/vikas.jpg" alt="Vikas V Harlapur">
+								</div>
+								<div class="team-desc">
+									<div class="team-title"><h4>Vikas V Harlapur</h4><span>Asst. Operation Manager</span></div>
+									<div class="team-content">Has extraordinary skills with people and loves music. Works hard to rock the dynamic of hospitality industry.</div>
+									<a href="https://www.facebook.com/09vik09" target="_blank" class="social-icon si-rounded si-small si-facebook">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
+									</a>
+									<a href="#" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
+									</a>
+								</div>
+							</div>
+
+						</div>
 
 						<div class="col-md-6 bottommargin">
 
@@ -599,74 +474,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>
 
-						<div class="col-md-6 bottommargin">
-
-							<div class="team team-list clearfix">
-								<div class="team-image">
-									<img src="images/team/8.jpg" alt="Mary Jane">
-								</div>
-								<div class="team-desc">
-									<div class="team-title"><h4>Mary Jane</h4><span>Support</span></div>
-									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
-									<a href="#" class="social-icon si-rounded si-small si-facebook">
-										<i class="icon-facebook"></i>
-										<i class="icon-facebook"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-linkedin">
-										<i class="icon-linkedin"></i>
-										<i class="icon-linkedin"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
-									</a>
-								</div>
-							</div>
-
-						</div>
-
 						<div class="clear"></div>
 
 						<div class="fancy-title title-border title-center topmargin-sm">
 							<h4>Skills we are Perfect in</h4>
 						</div>
-
-						<div class="col_one_fourth nobottommargin center">
-							<div class="rounded-skill" data-color="#D01C1C" data-size="150" data-percent="90" data-width="2" data-animate="3000">
-								<div class="counter counter-inherit"><span data-from="1" data-to="90" data-refresh-interval="50" data-speed="3000"></span>%</div>
-							</div>
-							<h5>HTML5</h5>
-						</div>
-
-						<div class="col_one_fourth nobottommargin center">
-							<div class="rounded-skill" data-color="#1770A4" data-size="150" data-percent="75" data-width="2" data-animate="3000">
-								<div class="counter counter-inherit"><span data-from="1" data-to="75" data-refresh-interval="50" data-speed="3000"></span>%</div>
-							</div>
-							<h5>CSS3</h5>
-						</div>
-
-						<div class="col_one_fourth nobottommargin center">
-							<div class="rounded-skill" data-color="#6A89AA" data-size="150" data-percent="85" data-width="2" data-animate="3000">
-								<div class="counter counter-inherit"><span data-from="1" data-to="85" data-refresh-interval="50" data-speed="3000"></span>%</div>
-							</div>
-							<h5>PHP</h5>
-						</div>
-
-						<div class="col_one_fourth nobottommargin center col_last">
-							<div class="rounded-skill" data-color="#248673" data-size="150" data-percent="80" data-width="2" data-animate="3000">
-								<div class="counter counter-inherit"><span data-from="1" data-to="80" data-refresh-interval="50" data-speed="3000"></span>%</div>
-							</div>
-							<h5>jQuery</h5>
-						</div>
-
 					</div>
-
-					<div class="section parallax" style="background-image: url('images/parallax/3.jpg'); padding: 100px 0;" data-stellar-background-ratio="0.3">
-						<div class="heading-block center nobottomborder nobottommargin">
-							<h2>"Everything is designed, but some things are designed well."</h2>
-						</div>
-					</div>
-
 				</section>
 
 					<section id="section-brand" class="page-section">
@@ -685,6 +498,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>
 					</section>
+					<div class="section topmargin-sm footer-stick">
+
+						<h4 class="uppercase center">What <span>Clients</span> say?</h4>
+
+						<div class="fslider testimonial testimonial-full" data-animation="fade" data-arrows="false">
+							<div class="flexslider">
+								<div class="slider-wrap">
+									<div class="slide">
+										<div class="testi-image">
+											<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
+										</div>
+										<div class="testi-content">
+											<p>From Day 1, our training focuses on enhancing the skills of the candidates to best suit them to the industry in
+the long run.</p>
+											<div class="testi-meta">
+												Vikas Harlapur
+												<!-- <span>Apple Inc.</span> -->
+											</div>
+										</div>
+									</div>
+									<div class="slide">
+										<div class="testi-image">
+											<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+										</div>
+										<div class="testi-content">
+											<p>That said, we also have prime focus on placing the talent to the right place. Our dedicated training
+on placement ensures complete personality development to get you through any interview.</p>
+											<div class="testi-meta">
+												Ramu Reddy
+												<!-- <span>Envato Inc.</span> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
 			</div>
 			<div class="modal-on-load" data-target="#myModal1"></div>
 

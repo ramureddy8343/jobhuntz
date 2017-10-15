@@ -5,8 +5,8 @@ require_once('phpmailer/PHPMailerAutoload.php');
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'username@website.com', // Your Email Address
-				'name' => 'Your Name' // Your Name
+				'email' => 'ramureddy8343@gmail.com', // Your Email Address
+				'name' => 'Ramu Reddy' // Your Name
 			);
 
 // Form Processing Messages
@@ -52,7 +52,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 			$referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
 
 			$body = "$name $email $phone $service $message $referrer";
-
+			console.log("reached");
 			// Runs only when File Field is present in the Contact Form
 			if ( isset( $_FILES['template-contactform-file'] ) && $_FILES['template-contactform-file']['error'] == UPLOAD_ERR_OK ) {
 				$mail->IsHTML(true);
@@ -65,7 +65,6 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 				$response = file_get_contents( "https://www.google.com/recaptcha/api/siteverify?secret=" . $recaptcha_secret . "&response=" . $recaptcha_response );
 
 				$g_response = json_decode( $response );
-
 				if ( $g_response->success !== true ) {
 					echo '{ "alert": "error", "message": "Captcha not Validated! Please Try Again." }';
 					die;
