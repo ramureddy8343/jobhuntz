@@ -116,107 +116,108 @@
 					<div class="row clearfix">
 
 						<div class="col-md-6 bottommargin">
+
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="images/team/3.jpg" alt="John Doe">
+									<img src="images/team/akhil.png" alt="John Doe">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
-									<div class="team-content">
-										<p>Carbon emissions reductions giving, legitimize amplify non-partisan Aga Khan. Policy dialogue assessment expert free-speech cornerstone disruptor freedom. Cesar Chavez empower.</p>
-									</div>
-									<a href="#" class="social-icon si-rounded si-small si-light si-facebook">
+									<div class="team-title"><h4>Akhil Vaishnav</h4><span>MD</span></div>
+									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-gplus">
-										<i class="icon-gplus"></i>
-										<i class="icon-gplus"></i>
+									<a href="#" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
 									</a>
 								</div>
 							</div>
+
 						</div>
 
 						<div class="col-md-6 bottommargin">
+
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="images/team/2.jpg" alt="Josh Clark">
+									<img src="images/team/seema.png" alt="Nix Maxwell">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Josh Clark</h4><span>Co-Founder</span></div>
-									<div class="team-content">
-										<p>Carbon emissions reductions giving, legitimize amplify non-partisan Aga Khan. Policy dialogue assessment expert free-speech cornerstone disruptor freedom. Cesar Chavez empower.</p>
-									</div>
-									<a href="#" class="social-icon si-rounded si-small si-light si-facebook">
+									<div class="team-title"><h4>Seema Vanekar</h4><span>Co-Founder</span></div>
+									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-gplus">
-										<i class="icon-gplus"></i>
-										<i class="icon-gplus"></i>
+									<a href="#" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
 									</a>
 								</div>
 							</div>
+
+						</div>
+
+						<div class="clear"></div>
+						<div class="col-md-6 bottommargin">
+
+							<div class="team team-list clearfix">
+								<div class="team-image">
+									<img src="images/team/vikas.jpg" alt="Vikas V Harlapur">
+								</div>
+								<div class="team-desc">
+									<div class="team-title"><h4>Vikas V Harlapur</h4><span>Asst. Operation Manager</span></div>
+									<div class="team-content">Has extraordinary skills with people and loves music. Works hard to rock the dynamic of hospitality industry.</div>
+									<a href="https://www.facebook.com/09vik09" target="_blank" class="social-icon si-rounded si-small si-facebook">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
+									</a>
+									<a href="#" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
+									</a>
+								</div>
+							</div>
+
 						</div>
 
 						<div class="col-md-6 bottommargin">
-							<div class="team team-list clearfix">
-								<div class="team-image">
-									<img src="images/team/8.jpg" alt="Mary Jane">
-								</div>
-								<div class="team-desc">
-									<div class="team-title"><h4>Mary Jane</h4><span>Sales</span></div>
-									<div class="team-content">
-										<p>Carbon emissions reductions giving, legitimize amplify non-partisan Aga Khan. Policy dialogue assessment expert free-speech cornerstone disruptor freedom. Cesar Chavez empower.</p>
-									</div>
-									<a href="#" class="social-icon si-rounded si-small si-light si-facebook">
-										<i class="icon-facebook"></i>
-										<i class="icon-facebook"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-gplus">
-										<i class="icon-gplus"></i>
-										<i class="icon-gplus"></i>
-									</a>
-								</div>
-							</div>
-						</div>
 
-						<div class="col-md-6 bottommargin">
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="images/team/4.jpg" alt="Nix Maxwell">
+									<img src="images/team/preeti.png" alt="Josh Clark">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Nix Maxwell</h4><span>Support</span></div>
-									<div class="team-content">
-										<p>Carbon emissions reductions giving, legitimize amplify non-partisan Aga Khan. Policy dialogue assessment expert free-speech cornerstone disruptor freedom. Cesar Chavez empower.</p>
-									</div>
-									<a href="#" class="social-icon si-rounded si-small si-light si-facebook">
+									<div class="team-title"><h4>Preeti Lamba</h4><span>Trainee</span></div>
+									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-light si-gplus">
-										<i class="icon-gplus"></i>
-										<i class="icon-gplus"></i>
+									<a href="#" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
 									</a>
 								</div>
 							</div>
+
 						</div>
 
 					</div>
@@ -248,9 +249,9 @@
 
 				</div>
 
-				<div class="section footer-stick">
+				<div class="section topmargin-sm footer-stick">
 
-					<h4 class="uppercase center">What <span>Clients</span> Say?</h4>
+					<h4 class="uppercase center">What <span>Clients</span> say?</h4>
 
 					<div class="fslider testimonial testimonial-full" data-animation="fade" data-arrows="false">
 						<div class="flexslider">
@@ -260,10 +261,11 @@
 										<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
 									</div>
 									<div class="testi-content">
-										<p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+										<p>From Day 1, our training focuses on enhancing the skills of the candidates to best suit them to the industry in
+the long run.</p>
 										<div class="testi-meta">
-											Steve Jobs
-											<span>Apple Inc.</span>
+											Vikas Harlapur
+											<!-- <span>Apple Inc.</span> -->
 										</div>
 									</div>
 								</div>
@@ -272,22 +274,11 @@
 										<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
 									</div>
 									<div class="testi-content">
-										<p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+										<p>That said, we also have prime focus on placing the talent to the right place. Our dedicated training
+on placement ensures complete personality development to get you through any interview.</p>
 										<div class="testi-meta">
-											Collis Ta'eed
-											<span>Envato Inc.</span>
-										</div>
-									</div>
-								</div>
-								<div class="slide">
-									<div class="testi-image">
-										<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
-									</div>
-									<div class="testi-content">
-										<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-										<div class="testi-meta">
-											John Doe
-											<span>XYZ Inc.</span>
+											Ramu Reddy
+											<!-- <span>Envato Inc.</span> -->
 										</div>
 									</div>
 								</div>
@@ -296,14 +287,13 @@
 					</div>
 
 				</div>
-
 			</div>
 			<div class="clear"></div>
 			<div class="class="container clearfix"">
 				<div class="col_full">
 					<div class="promo promo-light bottommargin">
-						<h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@JobHuntz.com</span></h3>
-						<span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
+						<h3>Call us today at <span>+91 81977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
+						<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 						<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 					</div>
 				</div>

@@ -373,22 +373,22 @@ training on placement ensures to get you through any interview</p>
 
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="images/team/3.jpg" alt="John Doe">
+									<img src="images/team/akhil.png" alt="John Doe">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
+									<div class="team-title"><h4>Akhil Vaishnav</h4><span>MD</span></div>
 									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
-									<a href="#" class="social-icon si-rounded si-small si-facebook">
+									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
+									</a>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
 									</a>
 									<a href="#" class="social-icon si-rounded si-small si-twitter">
 										<i class="icon-twitter"></i>
 										<i class="icon-twitter"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-gplus">
-										<i class="icon-gplus"></i>
-										<i class="icon-gplus"></i>
 									</a>
 								</div>
 							</div>
@@ -399,22 +399,22 @@ training on placement ensures to get you through any interview</p>
 
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="images/team/4.jpg" alt="Nix Maxwell">
+									<img src="images/team/seema.png" alt="Nix Maxwell">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Nix Maxwell</h4><span>Co-Founder</span></div>
+									<div class="team-title"><h4>Seema Vanekar</h4><span>Co-Founder</span></div>
 									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
-									<a href="#" class="social-icon si-rounded si-small si-forrst">
-										<i class="icon-forrst"></i>
-										<i class="icon-forrst"></i>
+									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-skype">
-										<i class="icon-skype"></i>
-										<i class="icon-skype"></i>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-flickr">
-										<i class="icon-flickr"></i>
-										<i class="icon-flickr"></i>
+									<a href="#" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
 									</a>
 								</div>
 							</div>
@@ -452,22 +452,22 @@ training on placement ensures to get you through any interview</p>
 
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="images/team/2.jpg" alt="Josh Clark">
+									<img src="images/team/preeti.png" alt="Josh Clark">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Josh Clark</h4><span>Developer</span></div>
+									<div class="team-title"><h4>Preeti Lamba</h4><span>Trainee</span></div>
 									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
-									<a href="#" class="social-icon si-rounded si-small si-dribbble">
-										<i class="icon-dribbble"></i>
-										<i class="icon-dribbble"></i>
+									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
+										<i class="icon-facebook"></i>
+										<i class="icon-facebook"></i>
+									</a>
+									<a href="#" class="social-icon si-rounded si-small si-linkedin">
+										<i class="icon-linkedin"></i>
+										<i class="icon-linkedin"></i>
 									</a>
 									<a href="#" class="social-icon si-rounded si-small si-twitter">
 										<i class="icon-twitter"></i>
 										<i class="icon-twitter"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-github">
-										<i class="icon-github"></i>
-										<i class="icon-github"></i>
 									</a>
 								</div>
 							</div>
