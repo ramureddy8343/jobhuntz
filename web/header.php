@@ -44,10 +44,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li><a href="nonitrecrutment.php"><div>NON IT RECURUTEMENT</div></a></li>
               </ul>
             </li>
-          <li><a class="mega-menu" href="#" ><div>Portfolio</div></a></li>
+          <!-- <li><a class="mega-menu" href="#" ><div>Portfolio</div></a></li> -->
           <li><a href="placements.php"><div>Placements</div></a>
           <!-- <li><a  href="faqs.php" ><div>Faq</div></a></li> -->
-          <li><a href="jobs.php"><div>careers</div></a></li>
+          <!-- <li><a href="jobs.php"><div>careers</div></a></li> -->
           <li><a href="contact.php"><div>Contact Us</div></a></li>
         </ul>
 

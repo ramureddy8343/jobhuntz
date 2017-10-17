@@ -38,11 +38,11 @@
               <li><a href="nonitrecrutment.php"><div>NON IT RECURUTEMENT</div></a></li>
             </ul>
           </li>
-          <li class="mega-menu"><a href="#"><div>Portfolio</div></a>
+          <!-- <li class="mega-menu"><a href="#"><div>Portfolio</div></a> -->
           </li>
           <!-- <li><a href="faqs.php"><div>Faq</div></a> -->
           </li>
-          <li><a href="jobs.php"><div>Careers</div></a></li>
+          <!-- <li><a href="jobs.php"><div>Careers</div></a></li> -->
           <li><a href="contact.php"><div>Contact Us</div></a></li>
         </ul>
 

@@ -198,8 +198,8 @@
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@JobHuntz.com</span></h3>
-							<span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
+							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>support@jobhuntz.com</span></h3>
+							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>
 					</div>

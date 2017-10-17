@@ -82,10 +82,10 @@ skilled professionals in the Hospitality industry.</p>
 					<div class="clearfix">
 					</div>
 
-					<p class="story">We entered into this domain in the year 2015 to bring the best training to meet the ever demanding hospitality industry.
+					<p class="story">"We entered into this domain in the year 2015 to bring the best training to meet the ever demanding hospitality industry.
 						We were young then but our goal was clear and firm, to fill the void gap between talent and the industry.
 						The academy blends with the latest training curriculum and techniques. We are a team of experienced professionals with years of experience in placing the candidates to the right property. Experts at JobHuntz enjoy the distinction of being the most sought after gurus in the hospitality industry. Our relationship with our students stays post training and placements as well. We build a healthy ecosystem
-						that ensure long lasting relationship.</p>
+						that ensure long lasting relationship."</p>
 				</div>
 
 				<div class="container clearfix">
@@ -239,18 +239,16 @@ skilled professionals in the Hospitality industry.</p>
 					</div>
 
 					<ul class="clients-grid grid-6 nobottommargin clearfix">
-						<li><a href="http://logofury.com/logo/enzo.html"><img src="images/clients/1.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com"><img src="images/clients/2.png" alt="Clients"></a></li>
-						<li><a href="http://logofaves.com/2014/03/grabbt/"><img src="images/clients/3.png" alt="Clients"></a></li>
-						<li><a href="http://logofaves.com/2014/01/ladera-granola/"><img src="images/clients/4.png" alt="Clients"></a></li>
-						<li><a href="http://logofaves.com/2014/02/hershel-farms/"><img src="images/clients/5.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com/logo/food-fight-radio.html"><img src="images/clients/6.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com"><img src="images/clients/7.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com/logo/up-travel.html"><img src="images/clients/8.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com/logo/caffi-bardi.html"><img src="images/clients/9.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com/logo/bignix-design.html"><img src="images/clients/10.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com/"><img src="images/clients/11.png" alt="Clients"></a></li>
-						<li><a href="http://logofury.com/"><img src="images/clients/12.png" alt="Clients"></a></li>
+						<li><a href="https://www.tajhotels.com/"><img src="images/clients/taj.png" alt="Clients"></a></li>
+						<li><a href="https://www.theleela.com/"><img src="images/clients/leela.png" alt="Clients"></a></li>
+						<li><a href="http://www.marriott.com/"><img src="images/clients/jwm.png" alt="Clients"></a></li>
+						<li><a href="http://www.shangri-la.com/bengaluru/shangrila/"><img src="images/clients/shagiri.png" alt="Clients"></a></li>
+						<li><a href="https://www.lemontreehotels.com/"><img src="images/clients/lemon.png" alt="Clients"></a></li>
+						<li><a href="https://www.goindigo.in/"><img src="images/clients/indigo.jpg" alt="Clients"></a></li>
+						<li><a href="https://www.jetairways.com/en/IN/Home.aspx"><img src="images/clients/jetair.png" alt="Clients"></a></li>
+						<li><a href="https://www.shoppersstop.com/"><img src="images/clients/shopperstop.png" alt="Clients"></a></li>
+						<li><a href="http://www.levi.com"><img src="images/clients/livies.png" alt="Clients"></a></li>
+						<li><a href="http://global.diesel.com"><img src="images/clients/disel.png" alt="Clients"></a></li>
 					</ul>
 
 				</div>

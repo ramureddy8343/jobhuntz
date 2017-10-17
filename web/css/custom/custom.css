@@ -210,3 +210,21 @@ margin-right: 10px;
 .hospatality1{
   color: #8b6e30;
 }
+.owl-carousel .owl-item img{
+  height: 150px;
+    width: 200px;
+}
+.oc-item img{
+  height: 150px;
+  width: 200px;
+}
+.clients-grid li a img {
+    width: 100%;
+    height: 150px;
+}
+.feature-box {
+    position: relative;
+    margin-top: 20px;
+    padding: 0 10px;
+    text-align: center;
+}

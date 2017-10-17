@@ -56,7 +56,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="slider-caption slider-caption-center">
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp fnt40">Hospitality Management </h2>
-									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200">Take the lead</h3>
+									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" style="color:#000 !important;">Take the lead</h3>
 										<a href="hospitality.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
@@ -120,7 +120,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="col_one_third nobottommargin">
 							<div class="feature-box media-box">
 								<div class="fbox-media">
-									<img src="images/services/1.jpg" alt="Why choose Us?">
+									<img src="images/services/whychooseus.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
 									<h3>Why choose Us<span class="subtitle">Because we are Reliable</span></h3>
@@ -464,16 +464,16 @@ customer satisfaction.</p>
 					<section id="section-brand" class="page-section">
 						<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="60" data-loop="true" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5" data-items-lg="6">
 
-							<div class="oc-item"><a href="#"><img src="images/clients/1.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/2.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/3.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/4.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/5.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/6.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/7.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/8.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/9.png" alt="Clients"></a></div>
-							<div class="oc-item"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="https://www.tajhotels.com/" target="_blank"><img src="images/clients/taj.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="https://www.theleela.com/" target="_blank"><img src="images/clients/leela.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="http://www.marriott.com/" target="_blank"><img src="images/clients/jwm.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="http://www.shangri-la.com/bengaluru/shangrila/" target="_blank"><img src="images/clients/lemon.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="https://www.lemontreehotels.com/" target="_blank"><img src="images/clients/shagiri.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="https://www.goindigo.in/" target="_blank"><img src="images/clients/indigo.jpg" alt="Clients"></a></div>
+							<div class="oc-item"><a href="https://www.jetairways.com/en/IN/Home.aspx" target="_blank"><img src="images/clients/jetair.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="https://www.shoppersstop.com/" target="_blank"><img src="images/clients/shopperstop.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="http://www.levi.com" target="_blank"><img src="images/clients/livies.png" alt="Clients"></a></div>
+							<div class="oc-item"><a href="http://global.diesel.com" target="_blank"><img src="images/clients/disel.png" alt="Clients"></a></div>
 
 						</div>
 					</section>

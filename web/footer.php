@@ -21,7 +21,7 @@ the industry. Our training makes sure that you're always on the same side as the
 
           <div class="col_full col_last">
             <div class="copyrights-menu copyright-links clearfix">
-              <a href="/">Home</a>/<a href="about.php">About</a>/<a href="#">Portfolio</a>/<a href="placements.php">Placements</a>/<a href="contact.php">Contact</a>
+              <a href="/">Home</a>/<a href="about.php">About</a>/<a href="placements.php">Placements</a>/<a href="contact.php">Contact</a>
             </div>
           </div>
           <div class="col_full col_last">

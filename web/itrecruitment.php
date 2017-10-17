@@ -31,12 +31,12 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="darkBlue text-center" style="color:rgb(42, 0, 78) !important;">IT Recrutment</h1>
-				<span class="darkBlue text-center">Join our Fabulous Team of Intelligent Individuals</span>
+				<h1 class="darkBlue text-center" style="color:#fff !important;">IT Recrutment</h1>
+				<span class="darkBlue text-center" style="color:#fff !important;">Where we talk beyond software and hardware</span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
-					<li class="active">Service One</li>
+					<li class="active">IT Recrutment</li>
 				</ol>
 			</div>
 
@@ -51,71 +51,35 @@
 				<div class="container clearfix">
 
                     <div class="col_full text-center">
-                    <h3 class="nobottommargin">What is <span class="darkBlue">IT Recrutment</span>?</h3>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    <h3 class="nobottommargin">Our <span class="darkBlue">IT Recruitment</span> and What We Do?</h3>
+										<p class="fnt16">With the advent of so many technologies in the recent past, demand for expert IT professionals
+has never seen such a surge before. Today IT demands not just basic know-how of computer
+skills but also your ability to keep up with ever changing industry.</p>
                     </div>
-
+										<div class="clearfix">
+										</div>
+<p class="fnt16 text-center">Keeping all this in mind and we provide professionals who are ready to embrace this change.</p>
                 </div>
 
 				<div class="col_one_third">
 					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-screen i-alt"></i></a>
-						</div>
-						<h3>Responsive Layout</h3>
+						<h3>Hiring</h3>
 						<p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
 					</div>
 				</div>
 
 				<div class="col_one_third">
 					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-eye i-alt"></i></a>
-						</div>
-						<h3>Retina Graphics</h3>
-						<p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
+						<h3>Screening</h3>
+						<p>Filtering the profiles and placing the talents to right domain</p>
 					</div>
 				</div>
 
 				<div class="col_one_third col_last">
 					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-beaker i-alt"></i></a>
-						</div>
-						<h3>Powerful Performance</h3>
-						<p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
-					</div>
-				</div>
-
-				<div class="clear"></div>
-
-				<div class="col_one_third nobottommargin">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-stack i-alt"></i></a>
-						</div>
-						<h3>Premium Sliders</h3>
-						<p>Canvas included 20+ custom designed Slider Pages with Premium Sliders like Layer, Revolution, Swiper &amp; others.</p>
-					</div>
-				</div>
-
-				<div class="col_one_third nobottommargin">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-tint i-alt"></i></a>
-						</div>
-						<h3>Unlimited Colors</h3>
-						<p>Change the color scheme of the Theme in a flash just by changing the 6-digit HEX code in the colors.php file.</p>
-					</div>
-				</div>
-
-				<div class="col_one_third nobottommargin col_last">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-text-width i-alt"></i></a>
-						</div>
-						<h3>Customizable Fonts</h3>
-						<p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
+						<h3>Hiring</h3>
+						<p>Candidates are placed on a demand basis based on their profile. So many get placed before
+the speculated time.</p>
 					</div>
 				</div>
 			</div>
@@ -125,7 +89,7 @@
 
 					<!-- Contact Form
 					============================================= -->
-					<div class="col_full pt30">
+					<!-- <div class="col_full pt30">
 
 						<div class="fancy-title title-dotted-border">
 							<h3>Enroll For this Course</h3>
@@ -188,7 +152,7 @@
 								</div>
 
 							</form>
-						</div>
+						</div> -->
 
 					</div><!-- Contact Form End -->
 					<div class="clear"></div>
@@ -198,8 +162,8 @@
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@JobHuntz.com</span></h3>
-							<span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
+							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
+							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>
 					</div>
