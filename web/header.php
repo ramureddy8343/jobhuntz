@@ -32,8 +32,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li><a href="about.php"><div>About Us</div></a></li>
             <li><a href="#"><div>Courses</div></a>
               <ul>
-                <li><a href="hospatality.php"><div>HOSPITALITY MANAGMENT</div></a></li>
-                <li><a href="aviation.php"><div>AVIATION MANAGMENT</div></a></li>
+                <li><a href="hospitality.php"><div>HOSPITALITY MANAGEMENT</div></a></li>
+                <li><a href="aviation.php"><div>AVIATION MANAGEMENT</div></a></li>
                 <li><a href="retail.php"><div>RETAIL MANAGEMENT</div></a></li>
               </ul>
             </li>

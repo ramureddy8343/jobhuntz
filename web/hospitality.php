@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Hospatality Managment| JobHuntz</title>
+	<title>Hospitality Management| JobHuntz</title>
 
 </head>
 
@@ -31,12 +31,12 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1>Hospatality</h1>
-				<span>Join our Fabulous Team of Intelligent Individuals</span>
+				<h1>Hospitality</h1>
+				<span><b>Our training consititutes various modules to aid the students.</b></span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
-					<li class="active">Service One</li>
+					<li class="active">Hospitality</li>
 				</ol>
 			</div>
 

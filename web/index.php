@@ -41,13 +41,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="heading-block nobottommargin center">
 										<h1>
 											<span class="text-rotater nocolor" data-separator="|" data-rotate="flipInX" data-speed="3500">
-											 Make an astounding career in <span class="hospatality">Hospitality</span> domain.
+											 Make an astounding career in the <span class="hospatality">Hospitality</span> domain.
 											</span>
 											<!-- <span class="t-rotate">Simple|Customizable|Flexible|Easy|Profitable</span> -->
 										</h1>
 										<span class="hidden-xs fnt30">Explore our job oriented training.</span>
 									</div>
-									<a href="#section-services" class="button button-border button-light button-rounded button-reveal tright button-large hidden-xs"><i class="icon-angle-right"></i><span>Start Explore</span></a>
+									<a href="#section-services" class="button button-border button-light button-rounded button-reveal tright button-large hidden-xs"><i class="icon-angle-right"></i><span>Explore</span></a>
 								</div>
 							</div>
 						</div>
@@ -57,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp fnt40">Hospitality Management </h2>
 									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200">Get started with our Course.</h3>
-										<a href="#" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs"><i class="icon-angle-right"></i><span>Get Started</span></a>
+										<a href="hospitality.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
 							</div>
@@ -67,7 +67,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="slider-caption changeBrd">
 									<h2 data-caption-animate="fadeInUp" class="white">Aviation Management </h2>
 								  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" class="white">Get started with our Course.</h3>
-									<a href="#" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
+									<a href="aviation.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 								</div>
 							</div>
 						</div>
@@ -77,7 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp" class="white">Retail Management</h2>
 									  <h3 data-caption-animate="fadeInUp" class="white" data-caption-delay="200">Get started with our Course.</h3>
-										<a href="#" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
+										<a href="retail.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
 							</div>
@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img src="images/services/1.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>Why choose Us.<span class="subtitle">Because we are Reliable.</span></h3>
+									<h3>Why choose Us<span class="subtitle">Because we are Reliable</span></h3>
 									<p>Hospitality is an ever changing domain. The demands are always as per the latest trend in
 the industry. Our training makes sure that you're always on the same side as the industry is.</p>
 								</div>
@@ -136,8 +136,9 @@ the industry. Our training makes sure that you're always on the same side as the
 									<img src="images/services/2.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>Our Mission.<span class="subtitle">To Redefine your Brand.</span></h3>
-									<p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo.</p>
+									<h3>Our Mission<span class="subtitle fnt15">Provide Right Talent to hospitality industry</span></h3>
+									<p>It is incorporated in our DNA to give quality training to young, dynamic aspirants who wish to wind up
+skilled professionals in the Hospitality industry.</p>
 								</div>
 							</div>
 						</div>
@@ -148,8 +149,8 @@ the industry. Our training makes sure that you're always on the same side as the
 									<img src="images/services/3.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>What we Do.<span class="subtitle">Make our Customers Happy.</span></h3>
-									<p>Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.</p>
+									<h3>What we Do<span class="subtitle">Impacts the hospitality industry</span></h3>
+									<p>Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry.</p>
 								</div>
 							</div>
 						</div>
@@ -162,8 +163,8 @@ the industry. Our training makes sure that you're always on the same side as the
 
 						<div class="container clearfix">
 
-						<p class="caption">"<span class="hospatality">Comming Up</span>with new <span class="hospatality">hospatality</span> services"<br>
-							<a href="#" class="button button-border button-rounded button-white button-light button-large noleftmargin nobottommargin white" style="margin-top: 40px;">Show More</a>
+						<p class="caption">"<span class="hospatality">Coming Up</span> with new <span class="hospatality">hospatality</span> services"<br>
+							<!-- <a href="#" class="button button-border button-rounded button-white button-light button-large noleftmargin nobottommargin white" style="margin-top: 40px;">Show More</a> -->
 						</p>
 
 							<!-- <div class="col_one_fourth nobottommargin center" data-animate="bounceIn">
@@ -210,8 +211,8 @@ of the industry.</span>
 								<div class="fbox-icon">
 									<a href="hospitality.php"><img src="images/services/hospitality.jpg" alt=""></a>
 								</div>
-								<h3>Hospitality Managment</h3>
-								<p><strong>Basic and Advanced</strong> training to get through and make a career in hotel industry.</p>
+								<h3>Hospitality Management</h3>
+								<p><strong>Basic and Advanced</strong> training to get through and make a career in the hotel industry.</p>
 							</div>
 						</div>
 
@@ -220,7 +221,7 @@ of the industry.</span>
 								<div class="fbox-icon">
 									<a href="aviation.php"><img src="images/services/aviation.jpg" alt=""></a>
 								</div>
-								<h3>Aviation Managment</h3>
+								<h3>Aviation Management</h3>
 								<p> Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
 							</div>
 						</div>
@@ -254,9 +255,9 @@ training on placement ensures to get you through any interview</p>
 						<div class="col_one_third">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="100">
 								<div class="fbox-icon">
-									<a href="itrecrutment.php"><img src="images/services/recrute.jpg" alt=""></a>
+									<a href="itrecruitment.php"><img src="images/services/recrute.jpg" alt=""></a>
 								</div>
-								<h3>IT Recurutement</h3>
+								<h3>IT Recruitment</h3>
 								<p>Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
 							</div>
 						</div>
@@ -266,7 +267,7 @@ training on placement ensures to get you through any interview</p>
 								<div class="fbox-icon">
 									<a href="nonitrecrutment.php"><img src="images/services/bpo.jpg" alt=""></a>
 								</div>
-								<h3>Non IT Recurutement</h3>
+								<h3>Non IT Recruitment</h3>
 								<p>Indepth traning of <strong>BPO methods and Technology</strong> for promoting sales and customer satisfaction.</p>
 							</div>
 						</div>
@@ -333,25 +334,24 @@ training on placement ensures to get you through any interview</p>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Recruting at Infosys.</a></h3>
-									<span><a href="#"><a href="#">Mass Recruting</a></span>
+									<h3><a href="portfolio-single-gallery.html">Recruitment.</a></h3>
+									<span><a href="#"><a href="#">Mass Recruiting</a></span>
 								</div>
 							</article>
 
 							<article class="portfolio-item pf-icons pf-illustrations">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="images/portfolio/1/1.jpg" alt="JW Marriott Hotel Bengaluru">
+										<img src="images/portfolio/4/1.jpg" alt="JW Marriott Hotel Bengaluru">
 									</a>
 									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/1/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/1/2.jpg" class="hidden" data-lightbox="gallery-item"></a>
+										<a href="images/portfolio/4/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
 										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">JW Marriott Hotel Bengaluru</a></h3>
-									<span><a href="#"><a href="#">Event Hosting</a></span>
+									<h3><a href="portfolio-single-gallery.html">Retail Management</a></h3>
+									<span><a href="#"><a href="#">Retail</a></span>
 								</div>
 							</article>
 						</div><!-- #portfolio end -->
@@ -376,7 +376,7 @@ training on placement ensures to get you through any interview</p>
 									<img src="images/team/akhil.png" alt="John Doe">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Akhil Vaishnav</h4><span>MD</span></div>
+									<div class="team-title"><h4>Akhil Vaishnav</h4><span>Managing Director</span></div>
 									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
@@ -545,7 +545,7 @@ on placement ensures complete personality development to get you through any int
 					<div class="row nomargin clearfix">
 						<div class="col-sm-12 discountBg col-padding" data-height-lg="456" data-height-md="456" data-height-sm="456" data-height-xs="456" data-height-xxs="456">
 							<div>
-							<h2 class="uppercase ls1 Black">Hurrey Up</h2>
+							<h2 class="uppercase ls1 Black">Hurry Up</h2>
 							<h2 class="Black">Get <span class="discount" style="color:#000 !important; font-weight:bolder; font-size:40px;">40</span> % Discount On first 100 Seats</h2>
 							<button type="button" class="button button-rounded button-small button-dark nomargin" value="submit">Register Now</button>
 							<p class="nobottommargin White"><small class="t300"><em>* No Credit Card Required</em></small></p>

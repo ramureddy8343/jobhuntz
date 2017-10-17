@@ -122,7 +122,7 @@
 									<img src="images/team/akhil.png" alt="John Doe">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Akhil Vaishnav</h4><span>MD</span></div>
+									<div class="team-title"><h4>Akhil Vaishnav</h4><span>Managing Director</span></div>
 									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
