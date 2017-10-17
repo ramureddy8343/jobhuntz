@@ -32,7 +32,7 @@
 
 			<div class="container clearfix">
 				<h1>Retail Managment</h1>
-				<span>Join our Fabulous Team of Intelligent Individuals</span>
+				<span class="white"><b>Join our Fabulous Team of Intelligent Individuals</b></span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>

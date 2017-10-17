@@ -41,7 +41,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="heading-block nobottommargin center">
 										<h1>
 											<span class="text-rotater nocolor" data-separator="|" data-rotate="flipInX" data-speed="3500">
-											 Make an astounding career in the <span class="hospatality">Hospitality</span> domain.
+											 Make an astounding career in the <span class="hospatality1">Hospitality</span> domain.
 											</span>
 											<!-- <span class="t-rotate">Simple|Customizable|Flexible|Easy|Profitable</span> -->
 										</h1>
@@ -56,7 +56,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="slider-caption slider-caption-center">
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp fnt40">Hospitality Management </h2>
-									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200">Get started with our Course.</h3>
+									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200">Take the lead</h3>
 										<a href="hospitality.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
@@ -66,7 +66,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="container clearfix">
 								<div class="slider-caption changeBrd">
 									<h2 data-caption-animate="fadeInUp" class="white">Aviation Management </h2>
-								  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" class="white">Get started with our Course.</h3>
+								  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" class="white">Dream Big, Fly Higher</h3>
 									<a href="aviation.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 								</div>
 							</div>
@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="slider-caption slider-caption-center">
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp" class="white">Retail Management</h2>
-									  <h3 data-caption-animate="fadeInUp" class="white" data-caption-delay="200">Get started with our Course.</h3>
+									  <h3 data-caption-animate="fadeInUp" class="white" data-caption-delay="200">Don't be in the queue</h3>
 										<a href="retail.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
@@ -163,34 +163,9 @@ skilled professionals in the Hospitality industry.</p>
 
 						<div class="container clearfix">
 
-						<p class="caption">"<span class="hospatality">Coming Up</span> with new <span class="hospatality">hospatality</span> services"<br>
+						<p class="caption">Never seen before <span class="hospatality">Hospitality Services</span> are here!</span>
 							<!-- <a href="#" class="button button-border button-rounded button-white button-light button-large noleftmargin nobottommargin white" style="margin-top: 40px;">Show More</a> -->
 						</p>
-
-							<!-- <div class="col_one_fourth nobottommargin center" data-animate="bounceIn">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-code"></i>
-								<div class="counter counter-lined"><span data-from="100" data-to="846" data-refresh-interval="50" data-speed="2000"></span>K+</div>
-								<h5>Lines of Codes</h5>
-							</div>
-
-							<div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="200">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-magic"></i>
-								<div class="counter counter-lined"><span data-from="3000" data-to="15360" data-refresh-interval="100" data-speed="2500"></span>+</div>
-								<h5>KBs of HTML Files</h5>
-							</div>
-
-							<div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="400">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-file-text"></i>
-								<div class="counter counter-lined"><span data-from="10" data-to="386" data-refresh-interval="25" data-speed="3500"></span>*</div>
-								<h5>No. of Templates</h5>
-							</div>
-
-							<div class="col_one_fourth nobottommargin center col_last" data-animate="bounceIn" data-delay="600">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-time"></i>
-								<div class="counter counter-lined"><span data-from="60" data-to="1200" data-refresh-interval="30" data-speed="2700"></span>+</div>
-								<h5>Hours of Coding</h5>
-							</div> -->
-
 						</div>
 
 					</div>
@@ -222,7 +197,8 @@ of the industry.</span>
 									<a href="aviation.php"><img src="images/services/aviation.jpg" alt=""></a>
 								</div>
 								<h3>Aviation Management</h3>
-								<p> Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
+								<p>Aspirants will be trained on the <strong>Latest Technologies</strong> to meet the surplus demand of
+the <strong>Airline Industry</strong>.</p>
 							</div>
 						</div>
 
@@ -232,14 +208,15 @@ of the industry.</span>
 									<a href="retail.php"><img src="images/services/retail.jpg" alt=""></a>
 								</div>
 								<h3>Retail Management</h3>
-								<p>Indepth traning of <strong>Retail methods and Technology</strong> for promoting sales and customer satisfaction.</p>
+								<p>Detailed training on various <strong>Retail methodologies </strong>to excel at promoting sales and enhancing <strong>Customer
+Satisfaction</strong>.</p>
 							</div>
 						</div>
 
 						<div class="clear"></div>
 						<div class="heading-block center">
 							<h2>Our Services</h2>
-							<span>Some sub heading text to be added for the services</span>
+							<span>Count on our professional services for a better career</span>
 						</div>
 						<div class="col_one_third">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn">
@@ -258,7 +235,8 @@ training on placement ensures to get you through any interview</p>
 									<a href="itrecruitment.php"><img src="images/services/recrute.jpg" alt=""></a>
 								</div>
 								<h3>IT Recruitment</h3>
-								<p>Students will be well trained on <strong>Airline and Airport Management</strong>.</p>
+								<p>Our IT recruitment cell is dedicated to cater the needs of the <strong>Airline and Airport Management</strong>
+aspirants. We provide hands on experience needed to get your dream job.</p>
 							</div>
 						</div>
 
@@ -268,7 +246,9 @@ training on placement ensures to get you through any interview</p>
 									<a href="nonitrecrutment.php"><img src="images/services/bpo.jpg" alt=""></a>
 								</div>
 								<h3>Non IT Recruitment</h3>
-								<p>Indepth traning of <strong>BPO methods and Technology</strong> for promoting sales and customer satisfaction.</p>
+								<p>Our one of the focus has been on <strong>Communication</strong>. No wonder personality development and interaction
+comes naturally to us. And so we help our students excel in art of promoting sales and providing
+customer satisfaction.</p>
 							</div>
 						</div>
 					</div>
@@ -297,11 +277,11 @@ training on placement ensures to get you through any interview</p>
 									<div class="portfolio-overlay" data-lightbox="gallery">
 										<a href="images/portfolio/1/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
 										<a href="images/portfolio/1/2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+										<a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">JW Marriott Hotel Bengaluru</a></h3>
+									<h3><a href="#">JW Marriott Hotel Bengaluru</a></h3>
 									<span><a href="#"><a href="#">Event Hosting</a></span>
 								</div>
 							</article>
@@ -313,11 +293,11 @@ training on placement ensures to get you through any interview</p>
 									<div class="portfolio-overlay" data-lightbox="gallery">
 										<a href="images/portfolio/2/2.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
 										<a href="images/portfolio/2/3.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+										<a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Exibiting at Jet Airways</a></h3>
+									<h3><a href="#">Exibiting at Jet Airways</a></h3>
 									<span><a href="#"><a href="#">On Boarding</a></span>
 								</div>
 							</article>
@@ -330,11 +310,11 @@ training on placement ensures to get you through any interview</p>
 									<div class="portfolio-overlay" data-lightbox="gallery">
 										<a href="images/portfolio/3/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
 										<a href="images/portfolio/3/2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+										<a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Recruitment.</a></h3>
+									<h3><a href="#">Recruitment.</a></h3>
 									<span><a href="#"><a href="#">Mass Recruiting</a></span>
 								</div>
 							</article>
@@ -346,11 +326,11 @@ training on placement ensures to get you through any interview</p>
 									</a>
 									<div class="portfolio-overlay" data-lightbox="gallery">
 										<a href="images/portfolio/4/1.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+										<a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Retail Management</a></h3>
+									<h3><a href="#">Retail Management</a></h3>
 									<span><a href="#"><a href="#">Retail</a></span>
 								</div>
 							</article>
@@ -475,12 +455,11 @@ training on placement ensures to get you through any interview</p>
 						</div>
 
 						<div class="clear"></div>
-
-						<div class="fancy-title title-border title-center topmargin-sm">
-							<h4>Skills we are Perfect in</h4>
-						</div>
 					</div>
 				</section>
+				<div class="fancy-title title-border title-center topmargin-sm">
+					<h4>Our Clients</h4>
+				</div>
 
 					<section id="section-brand" class="page-section">
 						<div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="60" data-loop="true" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5" data-items-lg="6">
@@ -506,28 +485,44 @@ training on placement ensures to get you through any interview</p>
 							<div class="flexslider">
 								<div class="slider-wrap">
 									<div class="slide">
-										<div class="testi-image">
+										<!-- <div class="testi-image">
 											<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
-										</div>
+										</div> -->
 										<div class="testi-content">
-											<p>From Day 1, our training focuses on enhancing the skills of the candidates to best suit them to the industry in
-the long run.</p>
+											<p>"Our domain always demands high professional ethics in our staffs. Customer satisfaction has
+always been at the core of Jet Airways and choosing right set of talent helps accomplish that.
+Jobhuntz is where i could find such talent to cope up with the needs of our company in a professional way."</p>
 											<div class="testi-meta">
-												Vikas Harlapur
-												<!-- <span>Apple Inc.</span> -->
+												Matthew
+												<span>Jet Airways</span>
 											</div>
 										</div>
 									</div>
 									<div class="slide">
-										<div class="testi-image">
+										<!-- <div class="testi-image">
 											<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
-										</div>
+										</div> -->
 										<div class="testi-content">
-											<p>That said, we also have prime focus on placing the talent to the right place. Our dedicated training
-on placement ensures complete personality development to get you through any interview.</p>
+											<p>"I'm glad to say that many of my recruits have been via Jobhuntz. Now, I never have to worry for
+quality workforce for various departments in my hotel. Jobhuntz has helped me find bartenders,
+cashier, frontdesk professional, guest attendants, food servers that i can really feel proud of."</p>
 											<div class="testi-meta">
-												Ramu Reddy
-												<!-- <span>Envato Inc.</span> -->
+												Venkatesh
+												<span>JW Marriott</span>
+											</div>
+										</div>
+									</div>
+									<div class="slide">
+										<!-- <div class="testi-image">
+											<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+										</div> -->
+										<div class="testi-content">
+											<p>"Sales have always been something we were over-concerned about until we came across Job huntz. Folks
+there know what sells and what not. Hiring right professionals via Job huntz was the last thing
+we did to bring more business."</p>
+											<div class="testi-meta">
+												Mohan
+												<span>Shoppers Stop</span>
 											</div>
 										</div>
 									</div>
@@ -547,8 +542,8 @@ on placement ensures complete personality development to get you through any int
 							<div>
 							<h2 class="uppercase ls1 Black">Hurry Up</h2>
 							<h2 class="Black">Get <span class="discount" style="color:#000 !important; font-weight:bolder; font-size:40px;">40</span> % Discount On first 100 Seats</h2>
-							<button type="button" class="button button-rounded button-small button-dark nomargin" value="submit">Register Now</button>
-							<p class="nobottommargin White"><small class="t300"><em>* No Credit Card Required</em></small></p>
+							<!-- <button type="button" class="button button-rounded button-small button-dark nomargin" value="submit">Register Now</button> -->
+							<!-- <p class="nobottommargin White"><small class="t300"><em>* No Credit Card Required</em></small></p> -->
 							</div>
 						</div>
 					</div>

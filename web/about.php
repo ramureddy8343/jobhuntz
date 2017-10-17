@@ -56,7 +56,8 @@
 							<h4>Why choose <span>Us</span>.</h4>
 						</div>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi quidem minus id omnis, nam expedita, ea fuga commodi voluptas iusto, hic autem deleniti dolores explicabo labore enim repellat earum perspiciatis.</p>
+						<p class="fnt16">Hospitality is an ever changing domain. The demands are always as per the latest trend in
+the industry. Our training makes sure that you're always on the same side as the industry is.</p>
 
 					</div>
 
@@ -66,7 +67,8 @@
 							<h4>Our <span>Mission</span>.</h4>
 						</div>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi quidem minus id omnis, nam expedita, ea fuga commodi voluptas iusto, hic autem deleniti dolores explicabo labore enim repellat earum perspiciatis.</p>
+						<p class="fnt16">It is incorporated in our DNA to give quality training to young, dynamic aspirants who wish to wind up
+skilled professionals in the Hospitality industry.</p>
 
 					</div>
 
@@ -75,11 +77,15 @@
 						<div class="heading-block fancy-title nobottomborder title-bottom-border">
 							<h4>What we <span>Do</span>.</h4>
 						</div>
-
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi quidem minus id omnis, nam expedita, ea fuga commodi voluptas iusto, hic autem deleniti dolores explicabo labore enim repellat earum perspiciatis.</p>
-
+						<p class="fnt16">Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry.</p>
+					</div>
+					<div class="clearfix">
 					</div>
 
+					<p class="story">We entered into this domain in the year 2015 to bring the best training to meet the ever demanding hospitality industry.
+						We were young then but our goal was clear and firm, to fill the void gap between talent and the industry.
+						The academy blends with the latest training curriculum and techniques. We are a team of experienced professionals with years of experience in placing the candidates to the right property. Experts at JobHuntz enjoy the distinction of being the most sought after gurus in the hospitality industry. Our relationship with our students stays post training and placements as well. We build a healthy ecosystem
+						that ensure long lasting relationship.</p>
 				</div>
 
 				<div class="container clearfix">
@@ -257,28 +263,44 @@
 						<div class="flexslider">
 							<div class="slider-wrap">
 								<div class="slide">
-									<div class="testi-image">
+									<!-- <div class="testi-image">
 										<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
-									</div>
+									</div> -->
 									<div class="testi-content">
-										<p>From Day 1, our training focuses on enhancing the skills of the candidates to best suit them to the industry in
-the long run.</p>
+										<p>"Our domain always demands high professional ethics in our staffs. Customer satisfaction has
+always been at the core of Jet Airways and choosing right set of talent helps accomplish that.
+Jobhuntz is where i could find such talent to cope up with the needs of our company in a professional way."</p>
 										<div class="testi-meta">
-											Vikas Harlapur
-											<!-- <span>Apple Inc.</span> -->
+											Matthew
+											<span>Jet Airways</span>
 										</div>
 									</div>
 								</div>
 								<div class="slide">
-									<div class="testi-image">
+									<!-- <div class="testi-image">
 										<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
-									</div>
+									</div> -->
 									<div class="testi-content">
-										<p>That said, we also have prime focus on placing the talent to the right place. Our dedicated training
-on placement ensures complete personality development to get you through any interview.</p>
+										<p>"I'm glad to say that many of my recruits have been via Jobhuntz. Now, I never have to worry for
+quality workforce for various departments in my hotel. Jobhuntz has helped me find bartenders,
+cashier, frontdesk professional, guest attendants, food servers that i can really feel proud of."</p>
 										<div class="testi-meta">
-											Ramu Reddy
-											<!-- <span>Envato Inc.</span> -->
+											Venkatesh
+											<span>JW Marriott</span>
+										</div>
+									</div>
+								</div>
+								<div class="slide">
+									<!-- <div class="testi-image">
+										<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+									</div> -->
+									<div class="testi-content">
+										<p>"Sales have always been something we were over-concerned about until we came across Job huntz. Folks
+there know what sells and what not. Hiring right professionals via Job huntz was the last thing
+we did to bring more business."</p>
+										<div class="testi-meta">
+											Mohan
+											<span>Shoppers Stop</span>
 										</div>
 									</div>
 								</div>
@@ -287,6 +309,7 @@ on placement ensures complete personality development to get you through any int
 					</div>
 
 				</div>
+
 			</div>
 			<div class="clear"></div>
 			<div class="class="container clearfix"">

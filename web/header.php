@@ -40,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li><a href="#"><div>Services</div></a>
               <ul>
                 <li><a href="placements.php"><div>PLACEMENTS</div></a></li>
-                <li><a href="itrecrutment.php"><div>IT RECURUTEMENT</div></a></li>
+                <li><a href="itrecruitment.php"><div>IT RECURUTEMENT</div></a></li>
                 <li><a href="nonitrecrutment.php"><div>NON IT RECURUTEMENT</div></a></li>
               </ul>
             </li>

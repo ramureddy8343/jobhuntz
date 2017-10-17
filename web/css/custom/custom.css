@@ -9,15 +9,18 @@
     color: #353535;
 }
 .hospatality{
-  color: #DAA520;
-  text-transform: uppercase;
-  font-weight: bold;
+  color: #fff;
+      text-transform: uppercase;
+      font-weight: bold;
 }
 .caption{
   font-size: 30px;
     text-align: center;
     padding: 20px;
     text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
 }
 
 #header.full-header #primary-menu > ul{
@@ -36,6 +39,11 @@
   background: #fff !important;
   padding-left: 0!important;
   text-align: center!important;
+}
+.aboutUs .story{
+  text-align: center;
+font-size: 17px;
+font-style: italic;
 }
 .aboutUs .promo{
   padding: 30px!important;
@@ -185,10 +193,20 @@ margin-right: 10px;
 }
 .fbox-desc p{
   color: #333;
+  font-size: 16px;
 }
 .fnt15{
   font-size: 15px !important;
 }
 .fbox-desc{
   text-align: center;
+}
+.white{
+  color: #fbox-effect !important;
+}
+.fnt16{
+  font-size: 16px;
+}
+.hospatality1{
+  color: #8b6e30;
 }
