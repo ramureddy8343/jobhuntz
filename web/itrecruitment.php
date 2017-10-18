@@ -31,12 +31,12 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="darkBlue text-center" style="color:#fff !important;">IT Recrutment</h1>
+				<h1 class="darkBlue text-center" style="color:#fff !important;">IT Recruitment</h1>
 				<span class="darkBlue text-center" style="color:#fff !important;">Where we talk beyond software and hardware</span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
-					<li class="active">IT Recrutment</li>
+					<li class="active">IT Recruitment</li>
 				</ol>
 			</div>
 
@@ -64,21 +64,21 @@ skills but also your ability to keep up with ever changing industry.</p>
 				<div class="col_one_third">
 					<div class="feature-box fbox-rounded fbox-effect">
 						<h3>Hiring</h3>
-						<p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
+						<p class="fnt16">Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
 					</div>
 				</div>
 
 				<div class="col_one_third">
 					<div class="feature-box fbox-rounded fbox-effect">
 						<h3>Screening</h3>
-						<p>Filtering the profiles and placing the talents to right domain</p>
+						<p class="fnt16">Filtering the profiles and placing the talents to right domain</p>
 					</div>
 				</div>
 
 				<div class="col_one_third col_last">
 					<div class="feature-box fbox-rounded fbox-effect">
 						<h3>Hiring</h3>
-						<p>Candidates are placed on a demand basis based on their profile. So many get placed before
+						<p class="fnt16">Candidates are placed on a demand basis based on their profile. So many get placed before
 the speculated time.</p>
 					</div>
 				</div>

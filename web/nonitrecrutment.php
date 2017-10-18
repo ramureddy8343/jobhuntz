@@ -31,12 +31,12 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="darkBlue text-center" style="color:#fff !important;">NON IT Recrutment</h1>
+				<h1 class="darkBlue text-center" style="color:#fff !important;">NON IT Recruitment</h1>
 				<span class="darkBlue text-center" style="color:#fff !important;">Ignite your passion, join the revolution</span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
-					<li class="active">NON IT Recrutment</li>
+					<li class="active">NON IT Recruitment</li>
 				</ol>
 			</div>
 
@@ -60,26 +60,28 @@ customer satisfaction.</p>
 										</div>
                 </div>
 
-				<div class="col_one_third">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<h3>BPO</h3>
-						<p>Training and placing the candidates in the BPO sectors.</p>
-					</div>
-				</div>
+								<div class="col_one_third">
+									<div class="feature-box fbox-rounded fbox-effect">
+										<h3>Hospitality Management</h3>
+										<p class="fnt16"><strong>Basic and Advanced</strong> training to get through and make a career in the hotel industry.</p>
+									</div>
+								</div>
 
-				<div class="col_one_third">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<h3>IT Support</h3>
-						<p>Providing perfect support to the industry by training and creating workforce for support profile</p>
-					</div>
-				</div>
+								<div class="col_one_third">
+									<div class="feature-box fbox-rounded fbox-effect">
+										<h3>Aviation Management</h3>
+										<p class="fnt16">Aspirants will be trained on the <strong>Latest Technologies</strong> to meet the surplus demand of
+		the <strong>Airline Industry</strong>.</p>
+									</div>
+								</div>
 
-				<div class="col_one_third col_last">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<h3>Customer Support</h3>
-						<p>Bringing skilled professionals that are industy ready for Non-IT work</p>
-					</div>
-				</div>
+								<div class="col_one_third col_last">
+									<div class="feature-box fbox-rounded fbox-effect">
+										<h3>Retail Management</h3>
+										<p class="fnt16">Detailed training on various <strong>Retail methodologies </strong>to excel at promoting sales and enhancing <strong>Customer
+		Satisfaction</strong>.</p>
+									</div>
+								</div>
 			</div>
 
 

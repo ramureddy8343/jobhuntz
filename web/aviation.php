@@ -50,147 +50,159 @@
 			<div class="container clearfix">
 				<div class="container clearfix">
 
-                    <div class="col_full text-center">
-                    <h3 class="nobottommargin">What is Lorem Ipsum?</h3>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                    </div>
+					<div class="col_full text-center">
+					<h3 class="nobottommargin">Our <span class="darkBlue">Aviation</span> and What We Do?</h3>
+					<p class="fnt16"><b>Civil aviation</b> is one of two major categories of flying, representing all non-
+military aviation, both private and commercial. Most of the countries in the world are
+
+members of the International Civil Aviation Organization (ICAO) and work together to
+establish common standards and recommended practices for civil aviation through
+that agency</p>
+					</div>
 
                 </div>
+								<div class="container_pading">
+									<div class="col_half">
+										<div class="feature-box fbox-rounded fbox-effect textleft">
+											<h3>Introduction to IATA Ground operations</h3>
+											<ul class="pl14">
+												<li>Purpose and Scope</li>
+												<li>Wording Conventions</li>
+												<li>Aviation Language</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col_half col_last">
+										<div class="feature-box fbox-rounded fbox-effect textleft">
+											<h3>Passenger handling Procedures</h3>
+											<ul class="pl14">
+												<li>Passenger Departures, Arrival, Transfer and Transit, Security</li>
+												<li>Special Categories of Passengers</li>
+												<li>Passenger Irregularities</li>
+											</ul>
+										</div>
+									</div>
+									<div class="clear"></div>
+									<div class="col_half">
+										<div class="feature-box fbox-rounded fbox-effect textleft">
+											<h3>Cargo/Mail handling Procedures</h3>
+											<ul class="pl14">
+												<li>Cargo Acceptance–Special Cargo</li>
+												<li>Cargo Forwarding Storage and Preparation for Flight</li>
+												<li>Information and Data Transmission to Load-Control</li>
+											</ul>
+										</div>
+									</div>
 
-				<div class="col_one_third">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-screen i-alt"></i></a>
-						</div>
-						<h3>Responsive Layout</h3>
-						<p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
-					</div>
-				</div>
+									<div class="col_half col_last">
+										<div class="feature-box fbox-rounded fbox-effect textleft">
+											<h3>Aircraft handling procedures</h3>
+											<ul class="pl14">
+												<li>Ramp Safety in Aircraft Handling</li>
+												<li>Safety During Fuelling/Defueling Adverse Weather Conditions</li>
+												<li>Hand Signals, Aircraft Chocking, Aircraft Arrival, Aircraft Loading, Aircraft
+	Departure, Aircraft Towing</li>
+											</ul>
+										</div>
+									</div>
+									<div class="clear"></div>
+									<div class="col_half">
+										<div class="feature-box fbox-rounded fbox-effect textleft">
+											<h3>Airside Safety Operations</h3>
+											<ul class="pl14">
+												<li>Turnaround Coordination/Supervision Requirements</li>
+												<li>Reporting–Incidents, Accidents and Near-Misses</li>
+												<li>Airside Safety Investigation Procedure, Monitoring Procedures, Emergency
+	Response Procedures</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col_half col_last">
+										<div class="feature-box fbox-rounded fbox-effect textleft">
+											<h3>National aviation authorities</h3>
+											<ul class="pl14">
+												<li>Regulatory Bodies of civil aviation</li>
+												<li>Regulator variations</li>
+												<li>Airport authority variations</li>
+											</ul>
+										</div>
+									</div>
+								</div>
 
-				<div class="col_one_third">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-eye i-alt"></i></a>
-						</div>
-						<h3>Retina Graphics</h3>
-						<p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
-					</div>
-				</div>
 
-				<div class="col_one_third col_last">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-beaker i-alt"></i></a>
-						</div>
-						<h3>Powerful Performance</h3>
-						<p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
-					</div>
-				</div>
-
-				<div class="clear"></div>
-
-				<div class="col_one_third nobottommargin">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-stack i-alt"></i></a>
-						</div>
-						<h3>Premium Sliders</h3>
-						<p>Canvas included 20+ custom designed Slider Pages with Premium Sliders like Layer, Revolution, Swiper &amp; others.</p>
-					</div>
-				</div>
-
-				<div class="col_one_third nobottommargin">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-tint i-alt"></i></a>
-						</div>
-						<h3>Unlimited Colors</h3>
-						<p>Change the color scheme of the Theme in a flash just by changing the 6-digit HEX code in the colors.php file.</p>
-					</div>
-				</div>
-
-				<div class="col_one_third nobottommargin col_last">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-text-width i-alt"></i></a>
-						</div>
-						<h3>Customizable Fonts</h3>
-						<p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
-					</div>
-				</div>
 			</div>
 
 
 			<div class="container clearfix">
 
-					<!-- Contact Form
-					============================================= -->
-					<div class="col_full pt30">
+				<!-- Contact Form
+				============================================= -->
+				<!-- <div class="col_full pt30">
 
-						<div class="fancy-title title-dotted-border">
-							<h3>Enroll For this Course</h3>
-						</div>
+					<div class="fancy-title title-dotted-border">
+						<h3>Enroll For this Course</h3>
+					</div>
 
-						<div class="contact-widget">
+					<div class="contact-widget">
 
-							<div class="contact-form-result"></div>
+						<div class="contact-form-result"></div>
 
-							<form class="nobottommargin" id="template-contactform" name="template-contactform" action="include/sendemail.php" method="post" novalidate="novalidate">
+						<form class="nobottommargin" id="template-contactform" name="template-contactform" action="include/sendemail.php" method="post" novalidate="novalidate">
 
-								<div class="form-process"></div>
+							<div class="form-process"></div>
 
-								<div class="col_one_third">
-									<label for="template-contactform-name">Name <small>*</small></label>
-									<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" aria-required="true">
-								</div>
+							<div class="col_one_third">
+								<label for="template-contactform-name">Name <small>*</small></label>
+								<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" aria-required="true">
+							</div>
 
-								<div class="col_one_third">
-									<label for="template-contactform-email">Email <small>*</small></label>
-									<input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" aria-required="true">
-								</div>
+							<div class="col_one_third">
+								<label for="template-contactform-email">Email <small>*</small></label>
+								<input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" aria-required="true">
+							</div>
 
-								<div class="col_one_third col_last">
-									<label for="template-contactform-phone">Phone <small>*</small></label>
-									<input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" class="sm-form-control">
-								</div>
+							<div class="col_one_third col_last">
+								<label for="template-contactform-phone">Phone <small>*</small></label>
+								<input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" class="sm-form-control">
+							</div>
 
-								<div class="clear"></div>
+							<div class="clear"></div>
 
-								<div class="col_two_third">
-									<label for="template-contactform-subject">Subject <small>*</small></label>
-									<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="" class="required sm-form-control" aria-required="true">
-								</div>
+							<div class="col_two_third">
+								<label for="template-contactform-subject">Subject <small>*</small></label>
+								<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="" class="required sm-form-control" aria-required="true">
+							</div>
 
-								<div class="col_one_third col_last">
-									<label for="template-contactform-service">Courses <small>*</small></label>
-									<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control" value="">
-										<option value="">-- Select One --</option>
-										<option value="Course1">Service One</option>
-										<option value="Course2">Service Two</option>
-										<option value="Course3">Service Three</option>
-										<option value="Course4">Service Four</option>
-									</select>
-								</div>
+							<div class="col_one_third col_last">
+								<label for="template-contactform-service">Courses <small>*</small></label>
+								<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control" value="">
+									<option value="">-- Select One --</option>
+									<option value="Course1">Service One</option>
+									<option value="Course2">Service Two</option>
+									<option value="Course3">Service Three</option>
+									<option value="Course4">Service Four</option>
+								</select>
+							</div>
 
-								<div class="clear"></div>
+							<div class="clear"></div>
 
-								<div class="col_full">
-									<label for="template-contactform-message">Message <small>*</small></label>
-									<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30" aria-required="true"></textarea>
-								</div>
+							<div class="col_full">
+								<label for="template-contactform-message">Message <small>*</small></label>
+								<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30" aria-required="true"></textarea>
+							</div>
 
-								<div class="col_full hidden">
-									<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control">
-								</div>
+							<div class="col_full hidden">
+								<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control">
+							</div>
 
-								<div class="col_full">
-									<button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit" class="button button-3d nomargin">Submit Comment</button>
-								</div>
+							<div class="col_full">
+								<button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit" class="button button-3d nomargin">Submit Comment</button>
+							</div>
 
-							</form>
-						</div>
+						</form>
+					</div>
 
-					</div><!-- Contact Form End -->
+				</div>-->
 					<div class="clear"></div>
 				</div>
 
@@ -198,7 +210,7 @@
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>support@jobhuntz.com</span></h3>
+							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
 							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>

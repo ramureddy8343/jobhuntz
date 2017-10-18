@@ -383,7 +383,7 @@ customer satisfaction.</p>
 								</div>
 								<div class="team-desc">
 									<div class="team-title"><h4>Seema Vanekar</h4><span>Co-Founder</span></div>
-									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<div class="team-content">Works on Niche offerings for clients in the areas of hospitality, aviation, assessments, recruitment and campus drives. She also is responsible for our academic Initiatives on Source, Train and Deploy model and comes with around 15 years’ experience having worked with large clients in India and EMEA.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
@@ -409,7 +409,7 @@ customer satisfaction.</p>
 									<img src="images/team/vikas.jpg" alt="Vikas V Harlapur">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Vikas V Harlapur</h4><span>Asst. Operation Manager</span></div>
+									<div class="team-title"><h4>Vikas V Harlapur</h4><span>Operations</span></div>
 									<div class="team-content">Has extraordinary skills with people and loves music. Works hard to rock the dynamic of hospitality industry.</div>
 									<a href="https://www.facebook.com/09vik09" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
@@ -489,9 +489,9 @@ customer satisfaction.</p>
 											<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
 										</div> -->
 										<div class="testi-content">
-											<p>"Our domain always demands high professional ethics in our staffs. Customer satisfaction has
+											<p>Our domain always demands high professional ethics in our staffs. Customer satisfaction has
 always been at the core of Jet Airways and choosing right set of talent helps accomplish that.
-Jobhuntz is where i could find such talent to cope up with the needs of our company in a professional way."</p>
+Jobhuntz is where i could find such talent to cope up with the needs of our company in a professional way.</p>
 											<div class="testi-meta">
 												Matthew
 												<span>Jet Airways</span>
@@ -503,9 +503,9 @@ Jobhuntz is where i could find such talent to cope up with the needs of our comp
 											<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
 										</div> -->
 										<div class="testi-content">
-											<p>"I'm glad to say that many of my recruits have been via Jobhuntz. Now, I never have to worry for
+											<p>I'm glad to say that many of my recruits have been via Jobhuntz. Now, I never have to worry for
 quality workforce for various departments in my hotel. Jobhuntz has helped me find bartenders,
-cashier, frontdesk professional, guest attendants, food servers that i can really feel proud of."</p>
+cashier, frontdesk professional, guest attendants, food servers that i can really feel proud of.</p>
 											<div class="testi-meta">
 												Venkatesh
 												<span>JW Marriott</span>
@@ -517,9 +517,9 @@ cashier, frontdesk professional, guest attendants, food servers that i can reall
 											<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
 										</div> -->
 										<div class="testi-content">
-											<p>"Sales have always been something we were over-concerned about until we came across Job huntz. Folks
+											<p>Sales have always been something we were over-concerned about until we came across Job huntz. Folks
 there know what sells and what not. Hiring right professionals via Job huntz was the last thing
-we did to bring more business."</p>
+we did to bring more business.</p>
 											<div class="testi-meta">
 												Mohan
 												<span>Shoppers Stop</span>

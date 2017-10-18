@@ -51,73 +51,76 @@
 				<div class="container clearfix">
 
                     <div class="col_full text-center">
-                    <h3 class="nobottommargin">What is Lorem Ipsum?</h3>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    <h3 class="nobottommargin">Our <span class="darkBlue">Hospitality</span> and What We Do?</h3>
+										<p class="fnt16">The <b>hospitality industry</b> is a broad category of fields within service industry that
+includes lodging, event planning, theme parks, transportation, cruise line, and
+additional fields within the tourism industry.<br>
+The hospitality industry is a multibillion-dollar industry that depends on the availability
+of leisure time and disposable income. A hospitality unit such as a restaurant, hotel,
+or an amusement park consists of multiple groups such as facility maintenance and
+direct operations (servers, housekeepers, porters, kitchen workers, bartenders,
+management, marketing, and human resources etc.).</p>
                     </div>
-
                 </div>
 
-				<div class="col_one_third">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-screen i-alt"></i></a>
+				<div class="container_pading">
+					<div class="col_half">
+						<div class="feature-box fbox-rounded fbox-effect textleft">
+							<h3>Introduction to hospitality management</h3>
+							<ul class="pl14">
+								<li>The Nature of the Hospitality Industry</li>
+								<li>The Tangible and Intangible Nature of the Hospitality Industry</li>
+								<li>Relationship between the Hospitality Industry and Tourism</li>
+							</ul>
 						</div>
-						<h3>Responsive Layout</h3>
-						<p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
 					</div>
-				</div>
-
-				<div class="col_one_third">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-eye i-alt"></i></a>
+					<div class="col_half col_last">
+						<div class="feature-box fbox-rounded fbox-effect textleft">
+							<h3>Customer service</h3>
+							<ul class="pl14">
+								<li>Customer Service Basics &amp; Qualities</li>
+								<li>Telephone &amp; Email Etiquette</li>
+								<li>First Impression</li>
+							</ul>
 						</div>
-						<h3>Retina Graphics</h3>
-						<p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
 					</div>
-				</div>
-
-				<div class="col_one_third col_last">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-beaker i-alt"></i></a>
+					<div class="clear"></div>
+					<div class="col_half">
+						<div class="feature-box fbox-rounded fbox-effect textleft">
+							<h3>Accommodation sector</h3>
+							<ul class="pl14">
+								<li>Introduction to the Hotel Operations</li>
+								<li>Front Office Operations</li>
+								<li>Housekeeping Operations</li>
+							</ul>
 						</div>
-						<h3>Powerful Performance</h3>
-						<p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
+					</div>
+
+					<div class="col_half col_last">
+						<div class="feature-box fbox-rounded fbox-effect textleft">
+							<h3>Food &amp; Beverage</h3>
+							<ul class="pl14">
+								<li>Food and Beverage Operations</li>
+								<li>Menu Planning and Design, Food and Beverage Services and Kitchen Operations</li>
+								<li>Ambience of an Establishment</li>
+							</ul>
+						</div>
+					</div>
+					<div class="clear"></div>
+					<div class="col_half">
+						<div class="feature-box fbox-rounded fbox-effect textleft">
+							<h3>Role of technology in hospitality</h3>
+							<ul class="pl14">
+								<li>The Importance of Employing Up-to- date Information Technology</li>
+								<li>The Ways Technological Changes Improve the Operational Efficiency of the
+	Hospitality Industry for Customers, Tourists and Staff</li>
+								<li>The Property Management System (PMS) in Hotels</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 
 				<div class="clear"></div>
-
-				<div class="col_one_third nobottommargin">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-stack i-alt"></i></a>
-						</div>
-						<h3>Premium Sliders</h3>
-						<p>Canvas included 20+ custom designed Slider Pages with Premium Sliders like Layer, Revolution, Swiper &amp; others.</p>
-					</div>
-				</div>
-
-				<div class="col_one_third nobottommargin">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-tint i-alt"></i></a>
-						</div>
-						<h3>Unlimited Colors</h3>
-						<p>Change the color scheme of the Theme in a flash just by changing the 6-digit HEX code in the colors.php file.</p>
-					</div>
-				</div>
-
-				<div class="col_one_third nobottommargin col_last">
-					<div class="feature-box fbox-rounded fbox-effect">
-						<div class="fbox-icon">
-							<a href="#"><i class="icon-text-width i-alt"></i></a>
-						</div>
-						<h3>Customizable Fonts</h3>
-						<p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
-					</div>
-				</div>
 			</div>
 
 
@@ -125,7 +128,7 @@
 
 					<!-- Contact Form
 					============================================= -->
-					<div class="col_full pt30">
+					<!-- <div class="col_full pt30">
 
 						<div class="fancy-title title-dotted-border">
 							<h3>Enroll For this Course</h3>
@@ -190,7 +193,7 @@
 							</form>
 						</div>
 
-					</div><!-- Contact Form End -->
+					</div>-->
 					<div class="clear"></div>
 				</div>
 
@@ -198,7 +201,7 @@
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>support@jobhuntz.com</span></h3>
+							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
 							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>

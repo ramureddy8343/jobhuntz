@@ -21,21 +21,21 @@
       <nav id="primary-menu" class="dark">
 
         <ul>
-          <li class="current"><a href="index.html"><div>Home</div></a>							</li>
+          <li class="current"><a href="index.html"><div>Home</div></a></li>
           <li><a href="about.php"><div>About Us</div></a></li>
           <li><a href="placements.php"><div>Placements</div></a>
           <li><a href="#"><div>Courses</div></a>
             <ul>
-              <li><a href="hospatality.php"><div>HOSPITALITY MANAGMENT</div></a></li>
-              <li><a href="aviation.php"><div>AVIATION MANAGMENT</div></a></li>
+              <li><a href="hospatality.php"><div>HOSPITALITY MANAGEMENT</div></a></li>
+              <li><a href="aviation.php"><div>AVIATION MANAGEMENT</div></a></li>
               <li><a href="retail.php"><div>RETAIL MANAGEMENT</div></a></li>
             </ul>
           </li>
           <li><a href="#"><div>Services</div></a>
             <ul>
               <li><a href="placements.php"><div>PLACEMENTS</div></a></li>
-              <li><a href="itrecruitment.php"><div>IT RECURUTEMENT</div></a></li>
-              <li><a href="nonitrecrutment.php"><div>NON IT RECURUTEMENT</div></a></li>
+              <li><a href="itrecruitment.php"><div>IT RECRUITMENT</div></a></li>
+              <li><a href="nonitrecrutment.php"><div>NON IT RECRUITMENT</div></a></li>
             </ul>
           </li>
           <!-- <li class="mega-menu"><a href="#"><div>Portfolio</div></a> -->
