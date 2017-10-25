@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Retail Managment | JobHuntz</title>
+	<title>Retail Management | JobHuntz</title>
 
 </head>
 
@@ -31,12 +31,12 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1>Retail Managment</h1>
+				<h1>Retail Management</h1>
 				<span class="white"><b>Join our Fabulous Team of Intelligent Individuals</b></span>
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
-					<li class="active">Service One</li>
+					<li class="active">Retail Management</li>
 				</ol>
 			</div>
 

@@ -223,7 +223,7 @@ Satisfaction</strong>.</p>
 								<div class="fbox-icon">
 									<a href="placements.php"><img src="images/services/placement.jpg" alt=""></a>
 								</div>
-								<h3>Placements</h3>
+								<h3>Training and Placements</h3>
 								<p>we also have prime focus on <strong>placing the talent to the right place</strong>. Our dedicated
 training on placement ensures to get you through any interview</p>
 							</div>
@@ -259,7 +259,7 @@ customer satisfaction.</p>
 				<section id="section-work" class="page-section topmargin-lg">
 
 					<div class="heading-block center">
-						<h2>Our Works</h2>
+						<h2>Our Work</h2>
 						<span>Some of the Awesome Projects we've worked on.</span>
 					</div>
 

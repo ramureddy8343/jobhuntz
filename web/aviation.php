@@ -11,7 +11,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Aviation Managment | JobHuntz</title>
+	<title>Aviation Management | JobHuntz</title>
 
 </head>
 
@@ -31,12 +31,12 @@
     background-position: 50% 29%; padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="brightLight text-center" style="color: #333 !important;">Aviation Managment</h1>
+				<h1 class="brightLight text-center" style="color: #333 !important;">Aviation Management</h1>
 				<!-- <span class="brightLight text-center">Join our Fabulous Team of Intelligent Individuals</span> -->
 				<ol class="breadcrumb">
 					<li><a href="#">Home</a></li>
 					<li><a href="#">Services</a></li>
-					<li class="active">Service One</li>
+					<li class="active">Aviation Management</li>
 				</ol>
 			</div>
 

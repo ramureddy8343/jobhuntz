@@ -136,8 +136,8 @@
 							 Karanataka, Pin Code: 560102<br>
 						</address>
 						<p class="m0"><strong>Talk soon:</strong></p>
-						<p class="m0"><strong>Akhil Jain:</strong></p>
-						<abbr title="Phone Number"><strong>Phone:</strong></abbr> <b>(91) 8547 632521</b><br>
+						<p class="m0"><strong>Akhil Vaishnav:</strong></p>
+						<abbr title="Phone Number"><strong>Phone:</strong></abbr> <b>(91) 81977 59999</b><br>
 						<p class="m0"><strong>Vikas V Harlapur:</strong></p>
 						<abbr title="Phone Number:"><strong>Phone:</strong></abbr> <b>(91) 74118 24911</b><br><br>
 						<abbr title="Email Address"><strong>Email:</strong></abbr> <b>info@jobhuntz.com</b>

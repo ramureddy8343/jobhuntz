@@ -26,7 +26,7 @@
           <li><a href="placements.php"><div>Placements</div></a>
           <li><a href="#"><div>Courses</div></a>
             <ul>
-              <li><a href="hospatality.php"><div>HOSPITALITY MANAGEMENT</div></a></li>
+              <li><a href="hospitality.php"><div>HOSPITALITY MANAGEMENT</div></a></li>
               <li><a href="aviation.php"><div>AVIATION MANAGEMENT</div></a></li>
               <li><a href="retail.php"><div>RETAIL MANAGEMENT</div></a></li>
             </ul>
