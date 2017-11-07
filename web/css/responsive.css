@@ -1122,7 +1122,7 @@
 
 	h4 { font-size: 16px; }
 
-	.one-page-arrow { display: none !important; }
+	.one-page-arrow { display: block !important; }
 
 	#top-bar { height: auto; }
 
@@ -1154,12 +1154,14 @@
 	.nivo-caption,
 	.flex-caption,
 	.slider-caption p,
-	.slider-caption .button,
 	.camera_caption,
 	.ei-title,
 	.slider-arrow-top-sm,
 	.slider-arrow-bottom-sm { display: none !important; }
 
+	.slider-caption .button{
+		display: block !important;
+	}
 	.slider-caption h2 { margin-bottom: 0 !important; }
 
 	.flex-control-nav li { opacity: 1 !important; }
@@ -1461,7 +1463,7 @@
 
 	#copyrights .col_half { text-align: center; }
 
-	#copyrights .col_half:last-child { display: none; }
+	#copyrights .col_half:last-child { display: block; }
 
 	#copyrights .footer-logo {
 		margin-left: auto;
@@ -1639,7 +1641,7 @@
 
 	.swiper_wrapper:not(.force-full-screen),
 	.swiper_wrapper:not(.force-full-screen):not(.canvas-slider-grid) .swiper-slide,
-	.ei-slider { height: 180px !important; }
+	.ei-slider { height: 560px !important; }
 
 	.swiper_wrapper .slider-caption h2 { font-size: 28px; }
 
@@ -1851,4 +1853,3 @@ only screen and (                min-resolution: 2dppx) and (max-width: 991px) {
 	#logo a.standard-logo { display: none; }
 	#logo a.retina-logo { display: inline-block; }
 }
-

@@ -165,7 +165,7 @@ the industry. Our training makes sure that you're always on the same side as the
     markers: [
       {
         address: "HSR, Bangalore",
-        html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>JobHuntz</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
+        html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>JobHuntz</span></h4><p class="nobottommargin">It is incorporated in our <strong>DNA</strong> to give quality training to young, dynamic aspirants who wish to wind up skilled professionals in the <strong>Hospitality Industry</strong>.</p></div>',
         icon: {
           image: "images/icons/map-icon-red.png",
           iconsize: [32, 39],

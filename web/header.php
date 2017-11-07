@@ -10,7 +10,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ============================================= -->
 <header id="header" class="full-header">
 
-  <div id="header-wrap">
+  <div id="header-wrap" class="headerbgBlue">
 
     <div class="container clearfix">
 
@@ -19,8 +19,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- Logo
       ============================================= -->
       <div id="logo">
-        <a href="index.php" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="JobHuntz Logo"></a>
-        <a href="index.php" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="JobHuntz Logo"></a>
+        <a href="index.php" class="standard-logo" data-dark-logo="images/logo.png"><img src="images/logo.png" alt="JobHuntz Logo"></a>
+        <a href="index.php" class="retina-logo" data-dark-logo="images/logo.png"><img src="images/logo.png" alt="JobHuntz Logo"></a>
       </div><!-- #logo end -->
 
       <!-- Primary Navigation
@@ -53,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!-- Top Search
         ============================================= -->
-        <div id="top-search">
+        <div id="top-search" style="display:none;">
           <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
           <form action="search.html" method="get">
             <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">

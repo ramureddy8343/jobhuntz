@@ -1,19 +1,19 @@
 <?php
 
 require_once('phpmailer/PHPMailerAutoload.php');
+require("phpmailer/class.smtp.php");
 
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'ramureddy8343@gmail.com', // Your Email Address
+				'email' => 'info@jobhuntz.in', // Your Email Address
 				'name' => 'Ramu Reddy' // Your Name
 			);
-
 // Form Processing Messages
 $message_success = 'We have <strong>successfully</strong> received your Message and will get Back to you as soon as possible.';
 
 // Add this only if you use reCaptcha with your Contact Forms
-$recaptcha_secret = ''; // Your reCaptcha Secret
+$recaptcha_secret = '6Lek_jAUAAAAAAJCwzgmxPipCdXK2bn2MtThCKLC'; // Your reCaptcha Secret
 
 $mail = new PHPMailer();
 
@@ -42,17 +42,24 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 				$mail->AddAddress( $toemail['email'] , $toemail['name'] );
 			}
 			$mail->Subject = $subject;
-
-			$name = isset($name) ? "Name: $name<br><br>" : '';
-			$email = isset($email) ? "Email: $email<br><br>" : '';
-			$phone = isset($phone) ? "Phone: $phone<br><br>" : '';
-			$service = isset($service) ? "Service: $service<br><br>" : '';
-			$message = isset($message) ? "Message: $message<br><br>" : '';
+			$name = isset($name) ? "Name: <b>$name</b><br>" : '';
+			$email = isset($email) ? "Email: <b>$email</b><br>" : '';
+			$phone = isset($phone) ? "Phone: <b>$phone</b><br>" : '';
+			$service = isset($service) ? "Service: <b>$service</b><br>" : '';
+			$message = isset($message) ? "Message: <b>$message</b><br>" : '';
 
 			$referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
 
-			$body = "$name $email $phone $service $message $referrer";
-			console.log("reached");
+			$body = "<h2>You Have Recived a New Enquiry</h2>
+				 <p><b>Congratulations!!! You have Recived New Enquiry</b></p>
+			      <h2>Booking Details:</h2>
+			      <table style='border: 1px'><tr><td>Name</td><td>" .$name."</td></tr>
+			      <tr><td>Email:</td><td>".$email."</td></tr>
+			      <tr><td>Phone No:</td><td>".$phone."</td></tr>
+			      <tr><td>Service:</td><td>".$service."</td></tr>
+			      <tr><td>Mesage:</td><td>".$message."</td></tr>
+			      </table>";
+
 			// Runs only when File Field is present in the Contact Form
 			if ( isset( $_FILES['template-contactform-file'] ) && $_FILES['template-contactform-file']['error'] == UPLOAD_ERR_OK ) {
 				$mail->IsHTML(true);
@@ -75,7 +82,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 			$sendEmail = $mail->Send();
 
 			if( $sendEmail == true ):
-				echo '{ "alert": "success", "message": "' . $message_success . '" }';
+				echo '{ "alert": "success", "message": "' . $message_success .'" }';
 			else:
 				echo '{ "alert": "error", "message": "Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.<br /><br /><strong>Reason:</strong><br />' . $mail->ErrorInfo . '" }';
 			endif;

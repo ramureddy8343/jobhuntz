@@ -1,17 +1,41 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
-
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="Ramu Reddy" />
+	<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+  <title>About Us - Join our Fabulous Team of Intelligent Individuals | JobHuntz</title>
+  <meta name="description" content="Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry." />
+  <meta name="keywords" content="Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry." />
+  <meta name="fragment" content="!">
+
+  <!-- Apple META -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Facebook META -->
+  <meta property="fb:app_id" content="362519414173048">
+  <meta property="og:site_name" content="JobHuntz">
+  <meta property="og:title" content="About Us - Join our Fabulous Team of Intelligent Individuals | JobHuntz">
+  <meta property="og:description" content="Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry.">
+  <meta property="og:keywords" content="Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry.">
+  <meta property="og:url" content="http://jobhuntz.in/">
+  <meta property="og:image" content="http://jobhuntz.in/images/parallax/about.jpg">
+  <meta property="og:type" content="website">
+  <meta name="google-site-verification" content="-erkwdawo-__VFUwm5YVA1Dn2fN8JKMVV1WxHx4uyz8" />
+
+  <!-- Twitter META -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="JobHuntz">
+  <meta name="twitter:title" content="About Us - Join our Fabulous Team of Intelligent Individuals | JobHuntz">
+  <meta name="twitter:description" content="Enhancing the understanding of the industry. Giving quality training and hence in turn giving qualified professionals to the industry.">
+  <meta name="twitter:image" content="http://jobhuntz.in/images/parallax/about.jpg">
 
 	<!-- include css links
 	============================================= -->
 	<?php include 'links.php';?>
-
-	<!-- Document Title
-	============================================= -->
-	<title>About Us | JobHuntz</title>
 
 </head>
 
@@ -129,7 +153,7 @@ skilled professionals in the Hospitality industry.</p>
 								</div>
 								<div class="team-desc">
 									<div class="team-title"><h4>Akhil Vaishnav</h4><span>Managing Director</span></div>
-									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<div class="team-content">Akhil graduated in Engineering before joining one of the UK’s leading recruitment firms where he set up and headed their IT recruitment division in Bangalore. He then moved on to work for a hospitality recruiter specializing in placing senior professionals with top 50 properties. Akhil along with Seema Vanekar founded Jobhuntz into the market leader in Bangalore for IT, Hospitality and Aviation recruitment and payroll services.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
@@ -207,8 +231,8 @@ skilled professionals in the Hospitality industry.</p>
 									<img src="images/team/preeti.png" alt="Josh Clark">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Preeti Lamba</h4><span>Trainee</span></div>
-									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<div class="team-title"><h4>Preeti Lamba</h4><span>Senior Trainee</span></div>
+									<div class="team-content">Travelled around the world having served in Aviation, Retail and Hospitality for over 15 years. Now training aspiring candidates who would like to make a career in the same.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
@@ -313,7 +337,7 @@ we did to bring more business.</p>
 			<div class="class="container clearfix"">
 				<div class="col_full">
 					<div class="promo promo-light bottommargin">
-						<h3>Call us today at <span>+91 81977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
+						<h3>Call us today at <span>+91 74118 24911</span> or Email us at <span>info@jobhuntz.com</span></h3>
 						<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 						<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 					</div>

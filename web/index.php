@@ -3,15 +3,39 @@
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="Ramu Reddy" />
+	<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+  <title>Home - Make an astounding career in hospitalilty domain | JobHuntz</title>
+  <meta name="description" content="Never Seen Before Hospitality Services are Here." />
+  <meta name="keywords" content="Never Seen Before Hospitality Services are Here." />
+  <meta name="fragment" content="!">
+
+  <!-- Apple META -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Facebook META -->
+  <meta property="fb:app_id" content="362519414173048">
+  <meta property="og:site_name" content="JobHuntz">
+  <meta property="og:title" content="Home - Make an astounding career in hospitalilty domain | JobHuntz">
+  <meta property="og:description" content="Never Seen Before Hospitality Services are Here.">
+  <meta property="og:keywords" content="Never Seen Before Hospitality Services are Here.">
+  <meta property="og:url" content="http://jobhuntz.in/">
+  <meta property="og:image" content="http://jobhuntz.in/images/slider/swiper/aiviator.jpg">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter META -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="JobHuntz">
+  <meta name="twitter:title" content="Home - Make an astounding career in hospitalilty domain | JobHuntz">
+  <meta name="twitter:description" content="Never Seen Before Hospitality Services are Here.">
+  <meta name="twitter:image" content="http://jobhuntz.in/images/slider/swiper/aiviator.jpg">
 
 	<!-- include css links
 	============================================= -->
 	<?php include 'links.php';?>
-
-	<!-- Document Title
-	============================================= -->
-	<title>Home - Make an astounding career in hospitalilty domain | JobHuntz</title>
 
 </head>
 
@@ -36,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/3.jpg');">
 							<!-- <a href="index.html" class="standard-logo JobHuntz" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Job Huntz Logo"></a> -->
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
+								<div class="slider-caption slider-caption-center xs-top-change">
 									<h2 data-caption-animate="fadeInUp">Welcome to JobHuntz</h2>
 									<div class="heading-block nobottommargin center">
 										<h1>
@@ -45,9 +69,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</span>
 											<!-- <span class="t-rotate">Simple|Customizable|Flexible|Easy|Profitable</span> -->
 										</h1>
-										<span class="hidden-xs fnt30">Explore our job oriented training.</span>
+										<span class="fnt30 fnt-xs">Explore our job oriented training.</span>
 									</div>
-									<a href="#section-services" class="button button-border button-light button-rounded button-reveal tright button-large hidden-xs"><i class="icon-angle-right"></i><span>Explore</span></a>
+									<a href="#section-services" class="button button-border button-light button-rounded button-reveal tright button-large xs-small-btn"><i class="icon-angle-right"></i><span>Explore</span></a>
 								</div>
 							</div>
 						</div>
@@ -57,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp fnt40">Hospitality Management </h2>
 									  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" style="color:#000 !important;">Take the lead</h3>
-										<a href="hospitality.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs"><i class="icon-angle-right"></i><span>Get Started</span></a>
+										<a href="hospitality.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large xs-small-btn2"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
 							</div>
@@ -67,7 +91,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="slider-caption changeBrd">
 									<h2 data-caption-animate="fadeInUp" class="white">Aviation Management </h2>
 								  <h3 data-caption-animate="fadeInUp" data-caption-delay="200" class="white">Dream Big, Fly Higher</h3>
-									<a href="aviation.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
+									<a href="aviation.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large xs-small-btn2 changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 								</div>
 							</div>
 						</div>
@@ -77,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="right">
 										<h2 data-caption-animate="fadeInUp" class="white">Retail Management</h2>
 									  <h3 data-caption-animate="fadeInUp" class="white" data-caption-delay="200">Don't be in the queue</h3>
-										<a href="retail.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large hidden-xs changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
+										<a href="retail.php" data-caption-animate="fadeInUp" class="button button-border button-light button-rounded button-reveal button-large xs-small-btn2 changeBrd"><i class="icon-angle-right"></i><span>Get Started</span></a>
 									</div>
 								</div>
 							</div>
@@ -357,7 +381,7 @@ customer satisfaction.</p>
 								</div>
 								<div class="team-desc">
 									<div class="team-title"><h4>Akhil Vaishnav</h4><span>Managing Director</span></div>
-									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<div class="team-content">Akhil graduated in Engineering before joining one of the UK’s leading recruitment firms where he set up and headed their IT recruitment division in Bangalore. He then moved on to work for a hospitality recruiter specializing in placing senior professionals with top 50 properties. Akhil along with Seema Vanekar founded Jobhuntz into the market leader in Bangalore for IT, Hospitality and Aviation recruitment and payroll services.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>
@@ -435,8 +459,8 @@ customer satisfaction.</p>
 									<img src="images/team/preeti.png" alt="Josh Clark">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Preeti Lamba</h4><span>Trainee</span></div>
-									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
+									<div class="team-title"><h4>Preeti Lamba</h4><span>Senior Trainee</span></div>
+									<div class="team-content">Travelled around the world having served in Aviation, Retail and Hospitality for over 15 years. Now training aspiring candidates who would like to make a career in the same.</div>
 									<a href="#" target="_blank" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
 										<i class="icon-facebook"></i>

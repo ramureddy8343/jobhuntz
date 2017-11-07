@@ -1,17 +1,41 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
-
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="Ramu Reddy" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<title>Aviation Management | JobHuntz</title>
+	<meta name="description" content="Civil aviation is one of two major categories of flying, representing all non- military aviation, both private and commercial." />
+	<meta name="keywords" content="Civil aviation is one of two major categories of flying, representing all non- military aviation, both private and commercial." />
+	<meta name="fragment" content="!">
+
+	<!-- Apple META -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!-- Facebook META -->
+	<meta property="fb:app_id" content="362519414173048">
+	<meta property="og:site_name" content="JobHuntz">
+	<meta property="og:title" content="Aviation Management | JobHuntz">
+	<meta property="og:description" content="Civil aviation is one of two major categories of flying, representing all non- military aviation, both private and commercial.">
+	<meta property="og:keywords" content="Civil aviation is one of two major categories of flying, representing all non- military aviation, both private and commercial.">
+	<meta property="og:url" content="http://jobhuntz.in/">
+	<meta property="og:image" content="http://jobhuntz.in/images/services/two.jpg">
+	<meta property="og:type" content="website">
+	<meta name="google-site-verification" content="-erkwdawo-__VFUwm5YVA1Dn2fN8JKMVV1WxHx4uyz8" />
+
+	<!-- Twitter META -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="JobHuntz">
+	<meta name="twitter:title" content="Aviation Management | JobHuntz">
+	<meta name="twitter:description" content="Civil aviation is one of two major categories of flying, representing all non- military aviation, both private and commercial.">
+	<meta name="twitter:image" content="http://jobhuntz.in/images/services/two.jpg">
 
 	<!-- include css links
 	============================================= -->
 	<?php include 'links.php';?>
-
-	<!-- Document Title
-	============================================= -->
-	<title>Aviation Management | JobHuntz</title>
 
 </head>
 
@@ -210,7 +234,7 @@ that agency</p>
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
+							<h3>Call us today at <span>+91 74118 24911</span> or Email us at <span>info@jobhuntz.com</span></h3>
 							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>

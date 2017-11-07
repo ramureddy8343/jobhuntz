@@ -2,17 +2,40 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+  	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  	<meta name="author" content="Ramu Reddy" />
+  	<meta charset="utf-8">
+  	<meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+  	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+  	<title>NON IT Recrutment - Ignite your passion, join the revolution | JobHuntz</title>
+  	<meta name="description" content="One of our main focus has been on developing communication and interpersonal skills. No wonder personality development and interaction comes naturally to us. And so we help our students excel in art of promoting sales and providing customer satisfaction." />
+  	<meta name="keywords" content="One of our main focus has been on developing communication and interpersonal skills. No wonder personality development and interaction comes naturally to us. And so we help our students excel in art of promoting sales and providing customer satisfaction." />
+  	<meta name="fragment" content="!">
 
-	<!-- include css links
-	============================================= -->
-	<?php include 'links.php';?>
+  	<!-- Apple META -->
+  	<meta name="apple-mobile-web-app-capable" content="yes">
+  	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-	<!-- Document Title
-	============================================= -->
-	<title>NON IT Recrutment | JobHuntz</title>
+  	<!-- Facebook META -->
+  	<meta property="fb:app_id" content="362519414173048">
+  	<meta property="og:site_name" content="JobHuntz">
+  	<meta property="og:title" content="NON IT Recrutment - Ignite your passion, join the revolution | JobHuntz">
+  	<meta property="og:description" content="One of our main focus has been on developing communication and interpersonal skills. No wonder personality development and interaction comes naturally to us. And so we help our students excel in art of promoting sales and providing customer satisfaction.">
+  	<meta property="og:keywords" content="One of our main focus has been on developing communication and interpersonal skills. No wonder personality development and interaction comes naturally to us. And so we help our students excel in art of promoting sales and providing customer satisfaction.">
+  	<meta property="og:url" content="http://jobhuntz.in/">
+  	<meta property="og:image" content="http://jobhuntz.in/images/services/six.jpg">
+  	<meta property="og:type" content="website">
 
+  	<!-- Twitter META -->
+  	<meta name="twitter:card" content="summary">
+  	<meta name="twitter:site" content="JobHuntz">
+  	<meta name="twitter:title" content="NON IT Recrutment - Ignite your passion, join the revolution | JobHuntz">
+  	<meta name="twitter:description" content="One of our main focus has been on developing communication and interpersonal skills. No wonder personality development and interaction comes naturally to us. And so we help our students excel in art of promoting sales and providing customer satisfaction.">
+  	<meta name="twitter:image" content="http://jobhuntz.in/images/services/six.jpg">
+
+  	<!-- include css links
+  	============================================= -->
+  	<?php include 'links.php';?>
 </head>
 
 <body class="stretched">
@@ -162,7 +185,7 @@ customer satisfaction.</p>
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
+							<h3>Call us today at <span>+91 74118 24911</span> or Email us at <span>info@jobhuntz.com</span></h3>
 							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>

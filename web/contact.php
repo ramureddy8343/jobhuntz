@@ -1,19 +1,41 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
-
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="Ramu Reddy" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<title>Contact Us - Okay enough talks? Let's connect. We are just a call away.| JobHuntz</title>
+	<meta name="description" content="We are always happy to hear from you - LiveChat, telephone, email or snail mail - let us know what we can do for you!." />
+	<meta name="keywords" content="We are always happy to hear from you - LiveChat, telephone, email or snail mail - let us know what we can do for you!." />
+	<meta name="fragment" content="!">
 
+	<!-- Apple META -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!-- Facebook META -->
+	<meta property="fb:app_id" content="362519414173048">
+	<meta property="og:site_name" content="JobHuntz">
+	<meta property="og:title" content="Contact Us - Okay enough talks? Let's connect. We are just a call away.| JobHuntz">
+	<meta property="og:description" content="We are always happy to hear from you - LiveChat, telephone, email or snail mail - let us know what we can do for you!.">
+	<meta property="og:keywords" content="We are always happy to hear from you - LiveChat, telephone, email or snail mail - let us know what we can do for you!.">
+	<meta property="og:url" content="http://jobhuntz.in/">
+	<meta property="og:image" content="http://jobhuntz.in/images/contact.jpg">
+	<meta property="og:type" content="website">
+	<meta name="google-site-verification" content="-erkwdawo-__VFUwm5YVA1Dn2fN8JKMVV1WxHx4uyz8" />
+
+	<!-- Twitter META -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="JobHuntz">
+	<meta name="twitter:title" content="Contact Us - Okay enough talks? Let's connect. We are just a call away.| JobHuntz">
+	<meta name="twitter:description" content="We are always happy to hear from you - LiveChat, telephone, email or snail mail - let us know what we can do for you!.">
+	<meta name="twitter:image" content="http://jobhuntz.in/images/contact.jpg">
 
 	<!-- include css links
 	============================================= -->
 	<?php include 'links.php';?>
-
-	<!-- Document Title
-	============================================= -->
-	<title>Contact Us| JobHuntz</title>
-
 </head>
 
 <body class="stretched">
@@ -91,10 +113,9 @@
 									<label for="template-contactform-service">Services</label>
 									<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
 										<option value="">-- Select One --</option>
-										<option value="Wordpress">Hospitality Management</option>
-										<option value="PHP / MySQL">PHP / MySQL</option>
-										<option value="HTML5 / CSS3">HTML5 / CSS3</option>
-										<option value="Graphic Design">Graphic Design</option>
+										<option value="Hospitality">Hospitality Management</option>
+										<option value="Aviation">Aviation Management</option>
+										<option value="Retail">Retail Management</option>
 									</select>
 								</div>
 

@@ -3,16 +3,39 @@
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="Ramu Reddy" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<title>IT Recrutment - Where we talk beyond software and hardware| JobHuntz</title>
+	<meta name="description" content="Today IT demands not just basic know-how of computer skills but also your ability to keep up with ever changing industry." />
+	<meta name="keywords" content="Today IT demands not just basic know-how of computer skills but also your ability to keep up with ever changing industry." />
+	<meta name="fragment" content="!">
+
+	<!-- Apple META -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!-- Facebook META -->
+	<meta property="fb:app_id" content="362519414173048">
+	<meta property="og:site_name" content="JobHuntz">
+	<meta property="og:title" content="IT Recrutment - Where we talk beyond software and hardware| JobHuntz">
+	<meta property="og:description" content="Today IT demands not just basic know-how of computer skills but also your ability to keep up with ever changing industry.">
+	<meta property="og:keywords" content="Today IT demands not just basic know-how of computer skills but also your ability to keep up with ever changing industry.">
+	<meta property="og:url" content="http://jobhuntz.in/">
+	<meta property="og:image" content="http://jobhuntz.in/images/services/five.jpg">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter META -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="JobHuntz">
+	<meta name="twitter:title" content="IT Recrutment - Where we talk beyond software and hardware| JobHuntz">
+	<meta name="twitter:description" content="Today IT demands not just basic know-how of computer skills but also your ability to keep up with ever changing industry.">
+	<meta name="twitter:image" content="http://jobhuntz.in/images/services/five.jpg">
 
 	<!-- include css links
 	============================================= -->
 	<?php include 'links.php';?>
-
-	<!-- Document Title
-	============================================= -->
-	<title>IT Recrutment | JobHuntz</title>
-
 </head>
 
 <body class="stretched">
@@ -63,23 +86,31 @@ skills but also your ability to keep up with ever changing industry.</p>
 
 				<div class="col_one_third">
 					<div class="feature-box fbox-rounded fbox-effect">
-						<h3>Hiring</h3>
-						<p class="fnt16">Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
+						<h3>Hiring need</h3>
+						<p class="fnt16">Industry changes regularly, so what may be relevant to the industry today may not make much
+sense tomorrow.</p>
 					</div>
 				</div>
 
 				<div class="col_one_third">
 					<div class="feature-box fbox-rounded fbox-effect">
-						<h3>Screening</h3>
-						<p class="fnt16">Filtering the profiles and placing the talents to right domain</p>
+						<h3>Right set of talent</h3>
+						<p class="fnt16">Once the industry need is crystal clear, our focous shifts to fulfilling that demand.</p>
 					</div>
 				</div>
 
 				<div class="col_one_third col_last">
 					<div class="feature-box fbox-rounded fbox-effect">
-						<h3>Hiring</h3>
-						<p class="fnt16">Candidates are placed on a demand basis based on their profile. So many get placed before
-the speculated time.</p>
+						<h3>Screening and Interview</h3>
+						<p class="fnt16">In order to meet the demand of the industry, we do a formal screening of the candidate before
+we actually do the face-to-face interview.</p>
+					</div>
+				</div>
+				<div class="col_one_third">
+					<div class="feature-box fbox-rounded fbox-effect">
+						<h3>Offering Employment</h3>
+						<p class="fnt16">Finally, the candidate is offered the employment opportunity and is hired to a respective
+organization.</p>
 					</div>
 				</div>
 			</div>
@@ -162,7 +193,7 @@ the speculated time.</p>
 				<div class="class=" container="" clearfix""="">
 					<div class="col_full register">
 						<div class="promo promo-light bottommargin">
-							<h3>Call us today at <span>+9181977 59999</span> or Email us at <span>info@jobhuntz.com</span></h3>
+							<h3>Call us today at <span>+91 74118 24911</span> or Email us at <span>info@jobhuntz.com</span></h3>
 							<!-- <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span> -->
 							<!-- <a href="#" class="button button-xlarge button-rounded">Start Browsing</a> -->
 						</div>

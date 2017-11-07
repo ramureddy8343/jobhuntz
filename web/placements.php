@@ -1,9 +1,36 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
-
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="Ramu Reddy" />
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8; IE=7; chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<title>Placement and Training - Get a Job Which you have Dreamt off | JobHuntz</title>
+	<meta name="description" content="Our dedicated training on placement ensures complete personality development to get you through any interview." />
+	<meta name="keywords" content="Our dedicated training on placement ensures complete personality development to get you through any interview." />
+	<meta name="fragment" content="!">
+
+	<!-- Apple META -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<!-- Facebook META -->
+	<meta property="fb:app_id" content="362519414173048">
+	<meta property="og:site_name" content="JobHuntz">
+	<meta property="og:title" content="Placement and Training - Get a Job Which you have Dreamt off | JobHuntz">
+	<meta property="og:description" content="Our dedicated training on placement ensures complete personality development to get you through any interview.">
+	<meta property="og:keywords" content="Our dedicated training on placement ensures complete personality development to get you through any interview.">
+	<meta property="og:url" content="http://jobhuntz.in/">
+	<meta property="og:image" content="http://jobhuntz.in/images/placement/placementbanner.jpg">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter META -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="JobHuntz">
+	<meta name="twitter:title" content="Placement and Training - Get a Job Which you have Dreamt off | JobHuntz">
+	<meta name="twitter:description" content="Our dedicated training on placement ensures complete personality development to get you through any interview.">
+	<meta name="twitter:image" content="http://jobhuntz.in/images/placement/placementbanner.jpg">
 
 	<!-- include css links
 	============================================= -->
@@ -26,12 +53,12 @@
 
 		<!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-dark" style="    background-image: url(./images/placement/placementbanner.jpg);
+		<section id="page-title" class="page-title-dark" style="    background-image: url(./images/placement/placementbanner2.jpg);
     padding: 120px 0px;
-    background-size:100%,100%; padding: 120px 0;" data-stellar-background-ratio="0.3">
+     padding: 120px 0;" data-stellar-background-ratio="0.3">
 
 			<div class="container clearfix">
-				<h1 class="brightLight text-center" style="color: rgb(254, 253, 235) !important;">Placement Cell</h1>
+				<h1 class="brightLight text-center" style="color: rgb(255, 193, 19) !important">Placement Cell</h1>
 				<span class="brightLight text-center">Get a Job Which you have Dreamt off</span>
 				<ol class="breadcrumb">
 					<li><a href="/">Home</a></li>
@@ -71,10 +98,9 @@ interview.<br>
 			<div class="col_half">
 				<div class="feature-box fbox-center fbox-effect">
 					<h3>Ankur</h3>
-					<p class="p10">"Serving people with a smile been my dream. But because i was very shy, i couldn't think of
-	doing what i wanted to. Then i came across this institute. The most important thing that they
-	improved for me was being able to talk with people with complete grace. I felt very confident
-	and can't thank enough to the respected trainer from Jobhuntz for changing my attitute and life."</p>
+					<p class="p10">"I wanted to make a good career in hotel industry. The team here at Jobhuntz not just provided
+me skills but also helped me to build confidence. Now i am a part of a hotel in bangalore working
+as a cashier. Thank you for your guidance."</p>
 				</div>
 			</div>
 			<div class="col_half col_last">
